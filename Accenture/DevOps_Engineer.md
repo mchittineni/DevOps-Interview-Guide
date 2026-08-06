@@ -2,7 +2,6 @@
 
 **EXP- 6yrs**
 
-
 - You have created an IAM user in AWS and configured role-based access in EKS. How do you bind the IAM user to the EKS role?
 - Assume you have 10 AWS accounts. How will you securely log in to them, considering access keys are not used for security reasons?
 - What are the ways to log in to an AWS account?
