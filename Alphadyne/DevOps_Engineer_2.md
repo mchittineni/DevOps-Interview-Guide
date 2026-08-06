@@ -1,3 +1,21 @@
+---
+company: "Alphadyne"
+role: "DevOps Engineer"
+interview: 2
+tags:
+  - interview
+  - company/alphadyne
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/terraform
+  - topic/azure
+  - topic/ansible
+  - topic/linux
+  - topic/monitoring
+  - topic/networking
+  - topic/databases
+---
+
 # Alphadyne
 
 **YOE-->**
