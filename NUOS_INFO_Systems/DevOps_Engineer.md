@@ -4,7 +4,6 @@
 
 - Tech stack— mainly around Terraform, Azure, DevOps, Docker, and Git
 
-
 - How do you scale a Terraform pipeline that takes 25+ mins?
 - What happens to the Terraform state file if someone deletes resources from Azure?
 - If the pipeline fails due to existing resources, how do you handle RIP (Remove, Import, Plan)?
