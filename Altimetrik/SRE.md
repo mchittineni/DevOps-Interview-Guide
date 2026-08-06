@@ -1,3 +1,19 @@
+---
+company: "Altimetrik"
+role: "SRE"
+tags:
+  - interview
+  - company/altimetrik
+  - role/sre
+  - topic/kubernetes
+  - topic/terraform
+  - topic/aws
+  - topic/gcp
+  - topic/sre
+  - topic/networking
+  - topic/security
+---
+
 # Altimetrik
 
 - Question : How do you import a resource into Terraform that was created manually in AWS or GCP? What command would you use?
