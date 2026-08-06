@@ -1,3 +1,19 @@
+---
+company: "Sony"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/sony
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/terraform
+  - topic/aws
+  - topic/ci-cd
+  - topic/jenkins
+  - topic/monitoring
+  - topic/sre
+---
+
 # Sony
 
 1. How would you respond to a production outage during peak hours?
