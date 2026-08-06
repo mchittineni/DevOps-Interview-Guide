@@ -12,5 +12,6 @@
 10. ) If the tfstate file is lost, what do you do? With & without backup?
 11. ) In Linux systems there is the term Load Average? what does that mean? how it is being calculated? and in what format the load average output is?
 12. ) One of your worker nodes is not joining the cluster. How would you debug the issue?
+
 - There were More Scenario Questions Related to "Load Balancers",
 - "Route 53", and "EKS and DB Automation and Administration"

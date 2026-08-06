@@ -10,7 +10,6 @@
 - where do you use firewalls, SGs and NACLs
 - What are the best password security practices used by your organisation?
 
-
 - What are the security parameters we must consider while we are creating an EC2 instance for production?
 - How can you protect the data in an AWS instance?
 - How can you connect from AWS to on-prem servers?

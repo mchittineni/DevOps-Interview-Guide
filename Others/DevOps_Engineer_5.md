@@ -15,6 +15,7 @@
 13) A sudden surge in traffic causes a web application to become unresponsive what will be the steps you will take to mitigate
 14) Design the deployment of the pod with replica set set as 3 and having apache httpd image running as a container.
 15) How do you reduce the size of Dockerfile
+
 - Write a shell script to find and delete all files in a directory that are older than 30 days.
 - Create a script to monitor the disk usage of a server. If usage exceeds 80%, log the details to a file and send an alert email.
 - Write a script that renames all .txt files in a directory by appending the current date to the filename.
