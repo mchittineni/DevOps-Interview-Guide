@@ -1,3 +1,16 @@
+---
+company: "Hexaware"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/hexaware
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/terraform
+  - topic/azure
+  - topic/ci-cd
+---
+
 # Hexaware
 
 **Exp--4-5yrs**
