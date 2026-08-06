@@ -9,6 +9,7 @@
 3. What is the branching strategy that you follow in your org. Why did you follow this approach over other strategies.
 
 4. There is a new requirement from platform team to design a 3 tier architecture, with frontend , backend and database with all the security best practices , high availability , low latency. (AWS)
+
 - As a Devops engineer , you have to make a decision according to best and optimized solution for each component that you decide, like - should the db be run as statefullset or RDS/any cloud db managed solution is better, how do we deploy frontend-whether as pod or S3+cloudfront etc.
 
 5. During the explanation of architecture there were many counter and followup questions -
@@ -27,7 +28,6 @@
 6. Write a script to find a particular name in a file and replace it with another word.(can use bash or python) - they asked to execute as well
 7. Write a script to just find the first occurance of a pattern in the given file , and then extract the full line of the found pattern.(can use bash or python) - they asked to execute as well
 8. Write a script to find all the files in current directory and all subdirs,which are modified more than 5 hours ago, but not beyond today.
-
 
 - Round 2(F2F technical round with cloud devops architect):
 
@@ -52,9 +52,11 @@
 - Round 3 (F2F managerial + technical round):
 
 1. Explain the use of below linux commands:
+
 - finger,comm, netstat, jq, yq, at, atq, shuf, lsblk, less, last, nc, mtr, iftop, lsof, blkid, mkfs, nice
 
 2. Write a python script which takes a user input with any alphabet in capital (the user inp should be strictly alphabet and shouldn't be small letters).Then, from a given file, find min, max, sum from the corresponding numbers of the input alphabet. After printing the above details, delete all those matched lines from the file.
+
 - eg:
 - file.txt
 - C,23
@@ -77,7 +79,6 @@
 - Connection established from : 145.11.21.78
 
 - output should be: 145.11.21.78 , 189.22.99.19 , count=2
-
 
 4. Write a 3 stage Dockerfile with below scenario using pre-built images that they provided for each stage
    1. Set and copy the env config files , env variables , bash profiles like .bashrc , .bashprofile etc which already comes with image, to the 2nd stage
