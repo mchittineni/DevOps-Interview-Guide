@@ -2,7 +2,6 @@
 
 **YOE---> 3 yrs**
 
-
 - What is your day to day activities
 - How do you reduce docker image size
 - What is HPA and how do you implement it
