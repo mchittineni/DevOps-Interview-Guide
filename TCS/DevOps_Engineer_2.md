@@ -1,3 +1,19 @@
+---
+company: "TCS"
+role: "DevOps Engineer"
+interview: 2
+tags:
+  - interview
+  - company/tcs
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/azure
+  - topic/ci-cd
+  - topic/ansible
+  - topic/security
+  - topic/scripting
+---
+
 # TCS
 
 **Exp-- 4-5 yrs (DEVOPS)**
