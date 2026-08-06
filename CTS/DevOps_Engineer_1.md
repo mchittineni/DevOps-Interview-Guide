@@ -8,7 +8,6 @@
 - What is Az App Gateway and how it encrypt http/https traffic
 - App is down and throwing 503 err code, what steps should be taken
 
-
 - Also for question 4 is the answer the below?
 - Check the status of nginx/apache service that was used to host the web app
 - Check if any firewall/security group rules are blocking the flow of traffic
