@@ -1,3 +1,19 @@
+---
+company: "Nice"
+role: "SRE"
+interview: 2
+tags:
+  - interview
+  - company/nice
+  - role/sre
+  - topic/kubernetes
+  - topic/terraform
+  - topic/aws
+  - topic/azure
+  - topic/ci-cd
+  - topic/security
+---
+
 # Nice
 
 - Comapny - Nice
