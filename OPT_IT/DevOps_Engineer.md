@@ -1,3 +1,17 @@
+---
+company: "OPT IT"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/opt-it
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/aws
+  - topic/ci-cd
+  - topic/monitoring
+---
+
 # OPT IT
 
 **Exp:2+yrs**
