@@ -15,5 +15,4 @@
 - Do career achievements always need to be big and complex, or can they also be simple improvements?
 - Is a service mesh always needed, or are alternative tools sometimes enough?
 
-
 - MiscImp Qst -:
