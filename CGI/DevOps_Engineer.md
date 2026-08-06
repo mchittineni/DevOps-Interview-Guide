@@ -2,7 +2,6 @@
 
 **YOE---> 4.1 yrs**
 
-
 - CI/CD & Jenkins
 - How did you reduce a pipeline from 1 hour to 20 minutes?
 - Write a checkout stage with Git credentials.
