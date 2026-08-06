@@ -1,3 +1,18 @@
+---
+company: "Capgemini"
+role: "DevOps Engineer"
+interview: 3
+tags:
+  - interview
+  - company/capgemini
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/terraform
+  - topic/aws
+  - topic/networking
+  - topic/databases
+---
+
 # Capgemini
 
 **exp----**
