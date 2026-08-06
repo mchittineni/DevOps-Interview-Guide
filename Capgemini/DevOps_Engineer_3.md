@@ -2,7 +2,6 @@
 
 **exp----**
 
-
 - What is the difference between NAT Gateway and IGW?
 - If your pod is in Pending state, then what are your troubleshoot steps?
 - Can you tell me the difference between secondary RDS and read-only RDS?
