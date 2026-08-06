@@ -1,3 +1,19 @@
+---
+company: "Synechron"
+role: "DevOps Engineer"
+interview: 3
+tags:
+  - interview
+  - company/synechron
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/aws
+  - topic/ci-cd
+  - topic/jenkins
+  - topic/git
+  - topic/monitoring
+---
+
 # Synechron
 
 - Client -Morgan Stanley,

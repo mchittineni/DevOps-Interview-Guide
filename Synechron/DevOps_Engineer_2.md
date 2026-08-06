@@ -1,3 +1,20 @@
+---
+company: "Synechron"
+role: "DevOps Engineer"
+interview: 2
+tags:
+  - interview
+  - company/synechron
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/terraform
+  - topic/aws
+  - topic/ci-cd
+  - topic/linux
+  - topic/sre
+---
+
 # Synechron
 
 **Exp---- 3yr DevOps Engineer**
