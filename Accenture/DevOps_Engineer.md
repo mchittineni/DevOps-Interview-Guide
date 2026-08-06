@@ -1,3 +1,17 @@
+---
+company: "Accenture"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/accenture
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/terraform
+  - topic/aws
+  - topic/security
+  - topic/databases
+---
+
 # Accenture
 
 **EXP- 6yrs**
