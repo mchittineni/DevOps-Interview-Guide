@@ -1,3 +1,21 @@
+---
+company: "JPMorgan"
+role: "DevOps SRE"
+tags:
+  - interview
+  - company/jpmorgan
+  - role/devops-sre
+  - topic/kubernetes
+  - topic/terraform
+  - topic/aws
+  - topic/azure
+  - topic/ci-cd
+  - topic/monitoring
+  - topic/sre
+  - topic/networking
+  - topic/security
+---
+
 # JPMorgan
 
 **Exp-5years**
