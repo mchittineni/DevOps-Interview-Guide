@@ -1,3 +1,16 @@
+---
+company: "Amadeus Labs"
+role: "SRE"
+tags:
+  - interview
+  - company/amadeus-labs
+  - role/sre
+  - topic/kubernetes
+  - topic/linux
+  - topic/sre
+  - topic/security
+---
+
 # Amadeus Labs
 
 **Exp-5yr SRE**
