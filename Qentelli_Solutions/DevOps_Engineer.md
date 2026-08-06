@@ -1,3 +1,18 @@
+---
+company: "Qentelli Solutions"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/qentelli-solutions
+  - role/devops-engineer
+  - topic/terraform
+  - topic/aws
+  - topic/linux
+  - topic/networking
+  - topic/security
+  - topic/scripting
+---
+
 # Qentelli Solutions
 
 **Exp-----> 5yrs**
