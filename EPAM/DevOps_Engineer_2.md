@@ -1,3 +1,17 @@
+---
+company: "EPAM"
+role: "DevOps Engineer"
+interview: 2
+tags:
+  - interview
+  - company/epam
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/aws
+  - topic/networking
+  - topic/security
+---
+
 # EPAM
 
 **Exp-----> 7 YOE - AWS DevOps Engineer**

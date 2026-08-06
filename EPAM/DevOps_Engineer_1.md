@@ -1,3 +1,17 @@
+---
+company: "EPAM"
+role: "DevOps Engineer"
+interview: 1
+tags:
+  - interview
+  - company/epam
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/terraform
+  - topic/aws
+  - topic/linux
+---
+
 # EPAM
 
 **Exp--> 9 years devops -4yrs**
