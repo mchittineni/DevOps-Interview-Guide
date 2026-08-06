@@ -1,3 +1,20 @@
+---
+company: "Accion Labs"
+role: "SRE"
+tags:
+  - interview
+  - company/accion-labs
+  - role/sre
+  - topic/kubernetes
+  - topic/docker
+  - topic/terraform
+  - topic/aws
+  - topic/ansible
+  - topic/linux
+  - topic/sre
+  - topic/scripting
+---
+
 # Accion Labs
 
 **Exp---17yrs SRE**
