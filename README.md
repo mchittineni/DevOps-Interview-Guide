@@ -12,7 +12,7 @@ Some companies show up more than once — different candidates, different rounds
 
 ## How it's organized
 
-```
+```text
 <Company Name>/
   DevOps_Engineer.md        (default when no specific role was mentioned)
   DevOps_Engineer_2.md      (second interview for the same company)
@@ -31,6 +31,28 @@ Search the repo for a company name, or open its folder directly. If you're prepp
 ## Contributing
 
 Have an interview experience worth sharing? Add it as a new file under the matching company folder (create the folder if it doesn't exist yet). Keep the one-file-per-interview format, and include the role and years of experience at the top if you can — it helps other candidates gauge relevance. If the company can't be named, put it under `Others/`.
+
+### Naming your file
+
+Use `<Role>.md`, with underscores instead of spaces — `DevOps_Engineer.md`, `SRE_principal.md`, `Cloud_Administrator_senior.md`. If a file for that role already exists in the folder, append the next number rather than merging into the existing one: `DevOps_Engineer_2.md`. Separate files preserve who was asked what, which is the point of the repo.
+
+### Formatting
+
+Markdown formatting is checked automatically on every pull request. The check only looks at files your PR touches, so you are never blocked by pre-existing issues elsewhere in the repo.
+
+Before pushing, run the auto-fixer from the repository root:
+
+```bash
+npx --yes markdownlint-cli2@0.23.2 --fix "**/*.md"
+```
+
+That resolves nearly everything — blank lines around lists, stray double blank lines, trailing whitespace, bare URLs. Rules that would rewrite list numbering are deliberately turned off in `.markdownlint-cli2.jsonc`, so the fixer will **not** renumber your questions.
+
+One rule can't auto-fix: `MD040` wants a language tag on every code fence. Use ```` ```bash ```` for commands, ```` ```yaml ```` for manifests, or ```` ```text ```` for plain output and diagrams.
+
+### Opening the PR
+
+A [pull request template](.github/PULL_REQUEST_TEMPLATE.md) is filled in for you when you open a PR. It asks for the company, role, and interview date, and has a short checklist covering the things that actually matter here: questions recorded as asked, no personal details about the interviewer, and the file in the right place.
 
 ## Support this
 
