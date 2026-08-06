@@ -1,3 +1,20 @@
+---
+company: "Sonata Software"
+role: "DevOps Engineer"
+interview: 1
+tags:
+  - interview
+  - company/sonata-software
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/terraform
+  - topic/azure
+  - topic/ci-cd
+  - topic/monitoring
+  - topic/networking
+  - topic/databases
+---
+
 # Sonata Software
 
 **Exp---- 5yr DevOps Engineer**

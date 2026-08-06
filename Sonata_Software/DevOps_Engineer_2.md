@@ -1,3 +1,17 @@
+---
+company: "Sonata Software"
+role: "DevOps Engineer"
+interview: 2
+tags:
+  - interview
+  - company/sonata-software
+  - role/devops-engineer
+  - topic/terraform
+  - topic/aws
+  - topic/security
+  - topic/scripting
+---
+
 # Sonata Software
 
 **YOE: 6 +**
