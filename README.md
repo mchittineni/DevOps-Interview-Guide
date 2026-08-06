@@ -24,6 +24,38 @@ Each file is one interview experience. If a company was interviewed at more than
 
 Submissions that never named a company live under `Others/`.
 
+## Using this as an Obsidian vault
+
+Every interview file carries YAML frontmatter, so the repo can be opened directly as an Obsidian vault (`Open folder as vault` → point it at the repo root). Tags are nested, which means Obsidian's tag pane groups them into a browsable tree:
+
+```yaml
+---
+company: "Accion Labs"
+role: "SRE"
+interview: 2 # only present when it's the Nth interview for that role
+tags:
+  - interview
+  - company/accion-labs
+  - role/sre
+  - topic/kubernetes
+  - topic/terraform
+---
+```
+
+`topic/` tags are derived from what each file actually mentions. The vocabulary is fixed at 17 topics:
+
+`kubernetes`, `docker`, `terraform`, `aws`, `azure`, `gcp`, `ci-cd`, `jenkins`, `ansible`, `linux`, `git`, `monitoring`, `sre`, `networking`, `security`, `scripting`, `databases`
+
+Useful searches once the vault is open:
+
+```text
+tag:#topic/kubernetes tag:#topic/terraform    both topics in one interview
+tag:#company/amazon                           everything from one company
+tag:#role/sre -tag:#topic/aws                 SRE interviews that skip AWS
+```
+
+Files under `Others/` have `company: "Unknown"` and carry no `company/` tag, since those submissions never named the employer.
+
 ## Using this
 
 Search the repo for a company name, or open its folder directly. If you're prepping broadly rather than for one company, skim a handful of folders across different company sizes (product companies, service companies like TCS/Infosys/Wipro, fintech, etc.) — the range of questions tells you more than any single list.
@@ -33,6 +65,8 @@ Search the repo for a company name, or open its folder directly. If you're prepp
 Have an interview experience worth sharing? Add it as a new file under the matching company folder (create the folder if it doesn't exist yet). Keep the one-file-per-interview format, and include the role and years of experience at the top if you can — it helps other candidates gauge relevance. If the company can't be named, put it under `Others/`.
 
 ### Naming your file
+
+Add YAML frontmatter at the top of the file — `company`, `role`, and `tags` — following the schema in [Using this as an Obsidian vault](#using-this-as-an-obsidian-vault). Pick `topic/` tags only from the fixed 17-topic vocabulary listed there, and only for topics the interview actually covered.
 
 Use `<Role>.md`, with underscores instead of spaces — `DevOps_Engineer.md`, `SRE_principal.md`, `Cloud_Administrator_senior.md`. If a file for that role already exists in the folder, append the next number rather than merging into the existing one: `DevOps_Engineer_2.md`. Separate files preserve who was asked what, which is the point of the repo.
 
