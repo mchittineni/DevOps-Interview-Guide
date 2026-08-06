@@ -1,3 +1,18 @@
+---
+company: "Wipro"
+role: "DevOps Engineer"
+interview: 1
+tags:
+  - interview
+  - company/wipro
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/azure
+  - topic/ci-cd
+  - topic/security
+---
+
 # Wipro
 
 - What is your day to day activity

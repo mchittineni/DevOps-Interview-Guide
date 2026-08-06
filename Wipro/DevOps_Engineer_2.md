@@ -1,3 +1,25 @@
+---
+company: "Wipro"
+role: "DevOps Engineer"
+interview: 2
+tags:
+  - interview
+  - company/wipro
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/terraform
+  - topic/aws
+  - topic/azure
+  - topic/gcp
+  - topic/ci-cd
+  - topic/ansible
+  - topic/linux
+  - topic/monitoring
+  - topic/security
+  - topic/scripting
+---
+
 # Wipro
 
 **Exp--->7 years**
