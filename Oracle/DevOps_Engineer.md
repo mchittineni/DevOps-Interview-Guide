@@ -1,3 +1,15 @@
+---
+company: "Oracle"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/oracle
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/linux
+---
+
 # Oracle
 
 **Experience - 8 years's**
