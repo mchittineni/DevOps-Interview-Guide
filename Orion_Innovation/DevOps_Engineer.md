@@ -1,3 +1,17 @@
+---
+company: "Orion Innovation"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/orion-innovation
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/aws
+  - topic/ci-cd
+  - topic/jenkins
+  - topic/networking
+---
+
 # Orion Innovation
 
 **Exp---- 5yr DevOps Engineer**
