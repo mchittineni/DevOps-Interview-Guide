@@ -1,3 +1,14 @@
+---
+company: "NPCI"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/npci
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+---
+
 # NPCI
 
 **Exp-----> 5yrs**
