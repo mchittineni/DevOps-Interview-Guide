@@ -1,3 +1,17 @@
+---
+company: "Unknown"
+role: "DevOps Engineer"
+interview: 4
+tags:
+  - interview
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/terraform
+  - topic/aws
+  - topic/git
+  - topic/security
+---
+
 # Others
 
 - how you ensure the best possible security for high availability architectures for 3 tier applications.

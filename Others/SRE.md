@@ -1,3 +1,17 @@
+---
+company: "Unknown"
+role: "SRE"
+tags:
+  - interview
+  - role/sre
+  - topic/kubernetes
+  - topic/docker
+  - topic/ci-cd
+  - topic/ansible
+  - topic/monitoring
+  - topic/sre
+---
+
 # Others
 
 - SRE role -:

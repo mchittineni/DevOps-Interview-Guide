@@ -1,3 +1,23 @@
+---
+company: "Unknown"
+role: "DevOps Engineer"
+interview: 12
+tags:
+  - interview
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/terraform
+  - topic/aws
+  - topic/ci-cd
+  - topic/jenkins
+  - topic/ansible
+  - topic/linux
+  - topic/git
+  - topic/networking
+  - topic/scripting
+---
+
 # Others
 
 - Total  - 4 Technical Round, 2F2F and 2 Virtual Round.

@@ -1,3 +1,17 @@
+---
+company: "Unknown"
+role: "DevOps Engineer"
+interview: 6
+tags:
+  - interview
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/terraform
+  - topic/azure
+  - topic/networking
+---
+
 # Others
 
 1) What is the difference between NSG and Firewall.

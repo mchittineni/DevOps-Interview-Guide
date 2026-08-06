@@ -1,3 +1,21 @@
+---
+company: "Unknown"
+role: "DevOps Engineer"
+interview: 5
+tags:
+  - interview
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/terraform
+  - topic/aws
+  - topic/linux
+  - topic/monitoring
+  - topic/sre
+  - topic/networking
+  - topic/scripting
+---
+
 # Others
 
 1) What will happen if the k8 master node and worker node firewall gets broken? Will the existing deployments work or impact on any new deploymentsHow will you communicate to people

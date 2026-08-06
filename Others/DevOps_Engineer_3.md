@@ -1,3 +1,19 @@
+---
+company: "Unknown"
+role: "DevOps Engineer"
+interview: 3
+tags:
+  - interview
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/terraform
+  - topic/aws
+  - topic/linux
+  - topic/networking
+  - topic/security
+---
+
 # Others
 
 1. ) How many NAT Gateways are needed for two public & two private subnets n a single VPC? Min & max?

@@ -1,3 +1,21 @@
+---
+company: "Unknown"
+role: "DevOps Engineer"
+interview: 9
+tags:
+  - interview
+  - role/devops-engineer
+  - topic/docker
+  - topic/terraform
+  - topic/aws
+  - topic/ci-cd
+  - topic/jenkins
+  - topic/ansible
+  - topic/linux
+  - topic/security
+  - topic/scripting
+---
+
 # Others
 
 - /var partition is 90% full. What’s your immediate action?

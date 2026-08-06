@@ -1,3 +1,21 @@
+---
+company: "Unknown"
+role: "DevOps Engineer"
+interview: 15
+tags:
+  - interview
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/terraform
+  - topic/aws
+  - topic/ci-cd
+  - topic/jenkins
+  - topic/monitoring
+  - topic/networking
+  - topic/scripting
+---
+
 # Others
 
 - Pod is running fine, all the parameters looks good, but the traffic is not reaching the pod when the user is trying to access the application, what could be the possible reason ?

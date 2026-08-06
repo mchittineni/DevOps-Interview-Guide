@@ -1,3 +1,15 @@
+---
+company: "Unknown"
+role: "DevOps Engineer"
+interview: 14
+tags:
+  - interview
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/linux
+  - topic/scripting
+---
+
 # Others
 
 - k8s node pending state how to debug

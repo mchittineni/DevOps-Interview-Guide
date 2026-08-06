@@ -1,3 +1,21 @@
+---
+company: "Unknown"
+role: "DevOps Engineer"
+interview: 16
+tags:
+  - interview
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/terraform
+  - topic/aws
+  - topic/azure
+  - topic/gcp
+  - topic/ci-cd
+  - topic/jenkins
+  - topic/linux
+  - topic/networking
+---
+
 # Others
 
 - Difference between build artificats and pipeline artifacts and which one is better

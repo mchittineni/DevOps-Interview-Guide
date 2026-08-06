@@ -1,3 +1,16 @@
+---
+company: "Unknown"
+role: "Cloud Administrator senior"
+tags:
+  - interview
+  - role/cloud-administrator-senior
+  - topic/kubernetes
+  - topic/terraform
+  - topic/aws
+  - topic/ci-cd
+  - topic/security
+---
+
 # Others
 
 **YOE-->6 yr**

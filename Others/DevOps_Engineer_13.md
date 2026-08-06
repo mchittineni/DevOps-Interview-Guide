@@ -1,3 +1,24 @@
+---
+company: "Unknown"
+role: "DevOps Engineer"
+interview: 13
+tags:
+  - interview
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/terraform
+  - topic/aws
+  - topic/ci-cd
+  - topic/jenkins
+  - topic/ansible
+  - topic/linux
+  - topic/networking
+  - topic/security
+  - topic/scripting
+  - topic/databases
+---
+
 # Others
 
 - What is the difference between import and include in Ansible?
