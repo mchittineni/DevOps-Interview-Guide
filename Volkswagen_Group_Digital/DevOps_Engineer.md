@@ -4,6 +4,7 @@
 
 - ==
 - Looking for both DevOps (70%) and development (30%).
+
 1) How do you onboard a new project from code to release management with multiple environments like prod, QA, Dev.
 2) how do you automate all the steps in the CI and CD with lots of tools?
 3) how do you run security checks in docker image?
