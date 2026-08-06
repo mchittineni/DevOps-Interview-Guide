@@ -5,7 +5,7 @@
 - Multi stage docker build. In which scenarios it would be useful. Is is suitable for compile based language?
 - Layer caching, explain with an example
 - Privileged mode in Docker. Explain with an example
-- Design an architecture for the scenario: if I type www.application.com it should get resolved to the backend service
+- Design an architecture for the scenario: if I type <www.application.com> it should get resolved to the backend service
 - Calico and VPC CNI plugin difference. Why one is preferred over other. How would they help in setting up networking for pod.
 - How is an ip address allocate to a pod. Does CNI plugin use same CIDR range which is provided by VPC or different?
 - Two pods which are part of same replica set are not able to communicate with each other what may be the reason
