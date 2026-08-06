@@ -1,3 +1,27 @@
+---
+company: "Sigmoid"
+role: "DevOps Engineer"
+interview: 4
+tags:
+  - interview
+  - company/sigmoid
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/terraform
+  - topic/aws
+  - topic/ci-cd
+  - topic/jenkins
+  - topic/ansible
+  - topic/linux
+  - topic/monitoring
+  - topic/sre
+  - topic/networking
+  - topic/security
+  - topic/scripting
+  - topic/databases
+---
+
 # Sigmoid
 
 **Exp---> 4-7 YOE**

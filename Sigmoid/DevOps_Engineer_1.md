@@ -1,3 +1,14 @@
+---
+company: "Sigmoid"
+role: "DevOps Engineer"
+interview: 1
+tags:
+  - interview
+  - company/sigmoid
+  - role/devops-engineer
+  - topic/kubernetes
+---
+
 # Sigmoid
 
 **Exp---> 7 YOE DevOps Engineer**
