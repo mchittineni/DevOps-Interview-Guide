@@ -1,3 +1,22 @@
+---
+company: "Cisco"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/cisco
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/terraform
+  - topic/aws
+  - topic/ci-cd
+  - topic/jenkins
+  - topic/ansible
+  - topic/linux
+  - topic/monitoring
+  - topic/security
+  - topic/scripting
+---
+
 # Cisco
 
 **Exp--->6+**
