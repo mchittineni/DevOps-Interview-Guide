@@ -1,3 +1,21 @@
+---
+company: "ZopSmart"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/zopsmart
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/terraform
+  - topic/aws
+  - topic/ci-cd
+  - topic/jenkins
+  - topic/ansible
+  - topic/linux
+  - topic/git
+---
+
 # ZopSmart
 
 **EXP-- 2yrs in devop**
