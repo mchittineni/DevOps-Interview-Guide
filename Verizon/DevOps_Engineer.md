@@ -1,3 +1,18 @@
+---
+company: "Verizon"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/verizon
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/aws
+  - topic/linux
+  - topic/security
+  - topic/databases
+---
+
 # Verizon
 
 **Exp---3 years**
