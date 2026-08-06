@@ -1,3 +1,19 @@
+---
+company: "ZS Associates"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/zs-associates
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/terraform
+  - topic/aws
+  - topic/ci-cd
+  - topic/networking
+  - topic/databases
+---
+
 # ZS Associates
 
 **YOE-->6 yr**
