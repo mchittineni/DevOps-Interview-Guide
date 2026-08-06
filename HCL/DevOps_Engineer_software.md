@@ -1,3 +1,17 @@
+---
+company: "HCL"
+role: "DevOps Engineer software"
+tags:
+  - interview
+  - company/hcl
+  - role/devops-engineer-software
+  - topic/kubernetes
+  - topic/docker
+  - topic/terraform
+  - topic/monitoring
+  - topic/security
+---
+
 # HCL
 
 **Exp---5 years**
