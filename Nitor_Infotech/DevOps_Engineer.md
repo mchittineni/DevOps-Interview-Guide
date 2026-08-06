@@ -1,3 +1,18 @@
+---
+company: "Nitor Infotech"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/nitor-infotech
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/terraform
+  - topic/aws
+  - topic/ci-cd
+  - topic/jenkins
+  - topic/security
+---
+
 # Nitor Infotech
 
 **YOE-->6 yr**
