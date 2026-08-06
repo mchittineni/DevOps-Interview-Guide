@@ -1,3 +1,19 @@
+---
+company: "Nisum Technologies"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/nisum-technologies
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/terraform
+  - topic/ci-cd
+  - topic/ansible
+  - topic/security
+  - topic/scripting
+---
+
 # Nisum Technologies
 
 - explain CI/CD pipeline
