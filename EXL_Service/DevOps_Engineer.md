@@ -1,3 +1,21 @@
+---
+company: "EXL Service"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/exl-service
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/terraform
+  - topic/aws
+  - topic/ci-cd
+  - topic/git
+  - topic/monitoring
+  - topic/sre
+  - topic/networking
+  - topic/security
+---
+
 # EXL Service
 
 **YOE---> 5 yrs**
