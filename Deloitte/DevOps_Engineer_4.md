@@ -1,3 +1,17 @@
+---
+company: "Deloitte"
+role: "DevOps Engineer"
+interview: 4
+tags:
+  - interview
+  - company/deloitte
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/terraform
+  - topic/aws
+  - topic/ci-cd
+---
+
 # Deloitte
 
 **YOE-4 yrs**

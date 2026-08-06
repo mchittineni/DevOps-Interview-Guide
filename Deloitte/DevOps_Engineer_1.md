@@ -1,3 +1,17 @@
+---
+company: "Deloitte"
+role: "DevOps Engineer"
+interview: 1
+tags:
+  - interview
+  - company/deloitte
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/aws
+  - topic/networking
+  - topic/scripting
+---
+
 # Deloitte
 
 **Exp-:**
