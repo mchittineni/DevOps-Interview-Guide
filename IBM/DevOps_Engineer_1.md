@@ -1,3 +1,19 @@
+---
+company: "IBM"
+role: "DevOps Engineer"
+interview: 1
+tags:
+  - interview
+  - company/ibm
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/aws
+  - topic/ci-cd
+  - topic/jenkins
+  - topic/git
+  - topic/networking
+---
+
 # IBM
 
 **Exp-7years (Devops Enginner)**
