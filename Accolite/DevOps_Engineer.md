@@ -1,3 +1,17 @@
+---
+company: "Accolite"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/accolite
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/ci-cd
+  - topic/monitoring
+  - topic/scripting
+  - topic/databases
+---
+
 # Accolite
 
 **Exp---- 3yr DevOps Engineer**
