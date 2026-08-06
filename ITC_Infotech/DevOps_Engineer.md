@@ -1,3 +1,16 @@
+---
+company: "ITC Infotech"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/itc-infotech
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/terraform
+  - topic/aws
+  - topic/networking
+---
+
 # ITC Infotech
 
 **YOE-->4 yr**
