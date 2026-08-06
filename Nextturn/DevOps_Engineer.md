@@ -1,3 +1,22 @@
+---
+company: "Nextturn"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/nextturn
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/terraform
+  - topic/aws
+  - topic/azure
+  - topic/ci-cd
+  - topic/jenkins
+  - topic/ansible
+  - topic/monitoring
+  - topic/scripting
+---
+
 # Nextturn
 
 **YOE---**
