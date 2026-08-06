@@ -1,3 +1,14 @@
+---
+company: "Wikreate Media"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/wikreate-media
+  - role/devops-engineer
+  - topic/aws
+  - topic/git
+---
+
 # Wikreate Media
 
 - Use of Route53
