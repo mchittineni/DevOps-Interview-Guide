@@ -1,3 +1,21 @@
+---
+company: "Flentas"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/flentas
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/terraform
+  - topic/aws
+  - topic/ci-cd
+  - topic/jenkins
+  - topic/git
+  - topic/networking
+  - topic/databases
+---
+
 # Flentas
 
 **exp -----> 3.5 yrs**
