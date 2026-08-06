@@ -1,3 +1,16 @@
+---
+company: "Syncortex"
+role: "Release Engineer"
+tags:
+  - interview
+  - company/syncortex
+  - role/release-engineer
+  - topic/kubernetes
+  - topic/terraform
+  - topic/aws
+  - topic/ansible
+---
+
 # Syncortex
 
 **Exp---5yrs  Release engineer**
