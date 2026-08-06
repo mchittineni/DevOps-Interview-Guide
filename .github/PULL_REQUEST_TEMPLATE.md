@@ -40,6 +40,13 @@ interview, just say so and skip the rest).
 - [ ] No personal information about the interviewer (name, contact details, LinkedIn)
 - [ ] Nothing identifying about the candidate beyond role and years of experience
 
+### Frontmatter
+
+- [ ] File starts with YAML frontmatter containing `company`, `role`, and `tags`
+- [ ] `company` matches the folder name, or is `"Unknown"` for entries under `Others/`
+- [ ] `topic/` tags come from the fixed 17-topic vocabulary in the README — no invented topics
+- [ ] Tags reflect what the interview actually covered, not every tool you know
+
 ### Placement
 
 - [ ] File is in the correct company folder, or under `Others/` if the company can't be named
