@@ -1,3 +1,17 @@
+---
+company: "Arrise Solutions"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/arrise-solutions
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/aws
+  - topic/linux
+  - topic/networking
+---
+
 # Arrise Solutions
 
 **Exp--7 yrs**
