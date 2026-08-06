@@ -1,3 +1,19 @@
+---
+company: "RelevantZ"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/relevantz
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/terraform
+  - topic/azure
+  - topic/ci-cd
+  - topic/networking
+  - topic/security
+  - topic/databases
+---
+
 # RelevantZ
 
 - RelevantZ interview questions
