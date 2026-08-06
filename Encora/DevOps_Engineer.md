@@ -1,3 +1,17 @@
+---
+company: "Encora"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/encora
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/terraform
+  - topic/azure
+  - topic/ci-cd
+  - topic/security
+---
+
 # Encora
 
 **Exp---- 7 yrs**
