@@ -1,3 +1,17 @@
+---
+company: "One2N"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/one2n
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/ci-cd
+  - topic/networking
+  - topic/databases
+---
+
 # One2N
 
 **YOE--->**
