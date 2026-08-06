@@ -13,6 +13,8 @@
 9. How do you secure sensitive data like passwords or API keys in infrastructure setups?
 10. How does your GitOps tool detect drift and how do you manage it?
 11. Write a script to monitor a service and restart it if it fails, including proper logging.
+
 - 12 .How do you handle parallel execution in CI/CD workflows?
+
 13. What’s the difference between using count and for_each in infrastructure code, and when should you use each?
 14. How do you monitor and alert on cloud resources effectively?
