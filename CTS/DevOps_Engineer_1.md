@@ -1,3 +1,16 @@
+---
+company: "CTS"
+role: "DevOps Engineer"
+interview: 1
+tags:
+  - interview
+  - company/cts
+  - role/devops-engineer
+  - topic/terraform
+  - topic/networking
+  - topic/security
+---
+
 # CTS (Cognizant)
 
 - What is connection drain
