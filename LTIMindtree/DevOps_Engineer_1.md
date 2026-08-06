@@ -1,3 +1,17 @@
+---
+company: "LTIMindtree"
+role: "DevOps Engineer"
+interview: 1
+tags:
+  - interview
+  - company/ltimindtree
+  - role/devops-engineer
+  - topic/docker
+  - topic/terraform
+  - topic/ci-cd
+  - topic/jenkins
+---
+
 # LTIMindtree
 
 - Can we install docker inside a container.

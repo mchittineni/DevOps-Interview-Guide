@@ -1,3 +1,20 @@
+---
+company: "LTIMindtree"
+role: "DevOps Engineer"
+interview: 4
+tags:
+  - interview
+  - company/ltimindtree
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/aws
+  - topic/ci-cd
+  - topic/jenkins
+  - topic/security
+  - topic/scripting
+---
+
 # LTIMindtree
 
 **Exp--->3 yrs**

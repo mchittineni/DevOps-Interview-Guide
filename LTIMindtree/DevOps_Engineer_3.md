@@ -1,3 +1,18 @@
+---
+company: "LTIMindtree"
+role: "DevOps Engineer"
+interview: 3
+tags:
+  - interview
+  - company/ltimindtree
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/terraform
+  - topic/aws
+  - topic/azure
+  - topic/networking
+---
+
 # LTIMindtree
 
 **Exp---5 year**

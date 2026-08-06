@@ -1,3 +1,15 @@
+---
+company: "LTIMindtree"
+role: "DevOps Engineer L2"
+tags:
+  - interview
+  - company/ltimindtree
+  - role/devops-engineer-l2
+  - topic/kubernetes
+  - topic/ci-cd
+  - topic/monitoring
+---
+
 # LTIMindtree
 
 **EXP 3-5 years. (L2)**
