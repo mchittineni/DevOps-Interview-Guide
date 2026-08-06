@@ -1,3 +1,15 @@
+---
+company: "BMW TechWorks"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/bmw-techworks
+  - role/devops-engineer
+  - topic/aws
+  - topic/ci-cd
+  - topic/security
+---
+
 # BMW TechWorks
 
 **YOE: 3-4yrs**
