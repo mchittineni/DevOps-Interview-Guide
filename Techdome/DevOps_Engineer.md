@@ -1,3 +1,15 @@
+---
+company: "Techdome"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/techdome
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/terraform
+---
+
 # Techdome
 
 1) Kubernetes architecture
