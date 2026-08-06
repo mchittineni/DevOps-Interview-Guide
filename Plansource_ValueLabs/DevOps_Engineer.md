@@ -1,3 +1,18 @@
+---
+company: "Plansource ValueLabs"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/plansource-valuelabs
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/terraform
+  - topic/aws
+  - topic/ci-cd
+  - topic/networking
+---
+
 # Plansource ValueLabs
 
 1. how many subnets you can add to a VPC
