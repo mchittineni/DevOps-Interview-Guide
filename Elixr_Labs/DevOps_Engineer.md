@@ -1,3 +1,15 @@
+---
+company: "Elixr Labs"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/elixr-labs
+  - role/devops-engineer
+  - topic/azure
+  - topic/ci-cd
+  - topic/monitoring
+---
+
 # Elixr Labs
 
 **Exp-----> 6yr**
