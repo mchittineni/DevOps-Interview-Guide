@@ -1,3 +1,17 @@
+---
+company: "Unknown"
+role: "DevOps Engineer"
+interview: 4
+tags:
+  - interview
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/terraform
+  - topic/aws
+  - topic/git
+  - topic/security
+---
+
 # Others
 
 - how you ensure the best possible security for high availability architectures for 3 tier applications.
@@ -9,7 +23,6 @@
 - How you connect to private instances when the SSH connection is not working?
 - where do you use firewalls, SGs and NACLs
 - What are the best password security practices used by your organisation?
-
 
 - What are the security parameters we must consider while we are creating an EC2 instance for production?
 - How can you protect the data in an AWS instance?

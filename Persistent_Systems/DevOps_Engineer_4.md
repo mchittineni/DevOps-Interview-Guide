@@ -1,3 +1,18 @@
+---
+company: "Persistent Systems"
+role: "DevOps Engineer"
+interview: 4
+tags:
+  - interview
+  - company/persistent-systems
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/aws
+  - topic/ci-cd
+  - topic/jenkins
+---
+
 # Persistent Systems
 
 - With respect to DevOps, to set the CI/CD pipeline, which tools and services have you used?

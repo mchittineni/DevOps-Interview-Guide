@@ -1,7 +1,26 @@
+---
+company: "Unknown"
+role: "DevOps Engineer"
+interview: 12
+tags:
+  - interview
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/terraform
+  - topic/aws
+  - topic/ci-cd
+  - topic/jenkins
+  - topic/ansible
+  - topic/linux
+  - topic/git
+  - topic/networking
+  - topic/scripting
+---
+
 # Others
 
 - Total  - 4 Technical Round, 2F2F and 2 Virtual Round.
-
 
 **Round 1: Technical Discussion (Client, Virtual)**
 
@@ -25,8 +44,6 @@
 18. Some other questions related to BareMetal Server, Storage(HP, DELL) related.
 19. How would you optimize AWS resource costs? Can you explain the methods you would use ?
 
-
-
 **Round 2: Technical Manager Round (Internal, F2F)**
 
 1. Create Terraform S3 resources, and ensure that the resource is deleted automatically after 7 days ?
@@ -41,8 +58,6 @@
 9. What is the difference between Pod and Deployment in Kubernetes ?
 11. What are the services in Kubernetes have ?
 12. What would you recommend: NodePort Service or LoadBalancer Service in Kubernetes and why?
-
-
 
 **Round 3: Technical Round (Client, F2F)**
 

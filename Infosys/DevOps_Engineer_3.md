@@ -1,7 +1,22 @@
+---
+company: "Infosys"
+role: "DevOps Engineer"
+interview: 3
+tags:
+  - interview
+  - company/infosys
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/terraform
+  - topic/monitoring
+  - topic/security
+  - topic/scripting
+---
+
 # Infosys
 
 **YOE---> 3 yrs**
-
 
 - What is your day to day activities
 - How do you reduce docker image size

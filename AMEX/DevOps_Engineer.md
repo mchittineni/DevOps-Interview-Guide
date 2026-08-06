@@ -1,3 +1,15 @@
+---
+company: "AMEX"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/amex
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/sre
+---
+
 # AMEX
 
 **YOE---> 3 yrs**

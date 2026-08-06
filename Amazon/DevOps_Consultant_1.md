@@ -1,3 +1,18 @@
+---
+company: "Amazon"
+role: "DevOps Consultant"
+interview: 1
+tags:
+  - interview
+  - company/amazon
+  - role/devops-consultant
+  - topic/kubernetes
+  - topic/terraform
+  - topic/aws
+  - topic/ci-cd
+  - topic/networking
+---
+
 # Amazon
 
 **Exp-9years(Devops Consulatnt)**

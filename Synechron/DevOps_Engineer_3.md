@@ -1,3 +1,19 @@
+---
+company: "Synechron"
+role: "DevOps Engineer"
+interview: 3
+tags:
+  - interview
+  - company/synechron
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/aws
+  - topic/ci-cd
+  - topic/jenkins
+  - topic/git
+  - topic/monitoring
+---
+
 # Synechron
 
 - Client -Morgan Stanley,
@@ -5,6 +21,7 @@
 **Exp--4 year**
 
 - All the questions are scenario-based and counter questions. - I have remembered these question , all the counter questions into CICD related and Kubernets.
+
 1. Can you explain what CI/CD is and describe how you have implemented CI/CD pipelines in one of your projects?
 2. How does an AWS CodePipeline differ from a Jenkins pipeline? Can you give an example of when you would choose one over the other?
 3. How do you configure your CI/CD pipelines? Can you walk me through the steps you followed to set up a pipeline in a recent project?

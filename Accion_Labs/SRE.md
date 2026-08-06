@@ -1,3 +1,20 @@
+---
+company: "Accion Labs"
+role: "SRE"
+tags:
+  - interview
+  - company/accion-labs
+  - role/sre
+  - topic/kubernetes
+  - topic/docker
+  - topic/terraform
+  - topic/aws
+  - topic/ansible
+  - topic/linux
+  - topic/sre
+  - topic/scripting
+---
+
 # Accion Labs
 
 **Exp---17yrs SRE**
@@ -12,8 +29,10 @@
 8) What is the Linux command used for mounting a file system?
 9) How do you detect the root cause when an application goes down in the cloud?
 10) How do you respond when:
+
 - a) the master node goes down?
 - b) a worker/slave node goes down?
+
 11) How do you configure a VPC for high availability?
 12) Have you worked on scripting? if so which tool ? explain what you have implemented?
 13) Have you written Terraform code for deployments? If yes, can you explain the implementation?

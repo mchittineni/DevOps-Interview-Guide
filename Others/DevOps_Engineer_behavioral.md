@@ -1,3 +1,13 @@
+---
+company: "Unknown"
+role: "DevOps Engineer behavioral"
+tags:
+  - interview
+  - role/devops-engineer-behavioral
+  - topic/ci-cd
+  - topic/security
+---
+
 # Others
 
 - Tell me about a time you handled a failed deployment in production. How did you manage the team and stakeholders?,

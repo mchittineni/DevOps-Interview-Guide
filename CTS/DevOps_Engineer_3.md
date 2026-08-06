@@ -1,3 +1,19 @@
+---
+company: "CTS"
+role: "DevOps Engineer"
+interview: 3
+tags:
+  - interview
+  - company/cts
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/terraform
+  - topic/ci-cd
+  - topic/ansible
+  - topic/scripting
+---
+
 # CTS (Cognizant)
 
 **Exp----->**

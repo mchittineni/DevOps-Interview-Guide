@@ -1,3 +1,19 @@
+---
+company: "Rapidsoft"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/rapidsoft
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/terraform
+  - topic/ci-cd
+  - topic/jenkins
+  - topic/ansible
+  - topic/databases
+---
+
 # Rapidsoft
 
 **Exp-: 10.5 years work ex. Devops. 4 -5 years of devops experience**

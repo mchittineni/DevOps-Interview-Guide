@@ -1,3 +1,18 @@
+---
+company: "Capgemini"
+role: "DevOps Engineer"
+interview: 2
+tags:
+  - interview
+  - company/capgemini
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/aws
+  - topic/ansible
+  - topic/security
+  - topic/databases
+---
+
 # Capgemini
 
 **Exp-9yrs Relevant(5yrs in devops)**

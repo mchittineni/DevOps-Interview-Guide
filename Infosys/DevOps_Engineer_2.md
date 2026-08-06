@@ -1,3 +1,20 @@
+---
+company: "Infosys"
+role: "DevOps Engineer"
+interview: 2
+tags:
+  - interview
+  - company/infosys
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/terraform
+  - topic/ci-cd
+  - topic/jenkins
+  - topic/ansible
+  - topic/monitoring
+---
+
 # Infosys
 
 - Introduction

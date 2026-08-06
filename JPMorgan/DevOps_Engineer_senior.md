@@ -1,3 +1,22 @@
+---
+company: "JPMorgan"
+role: "DevOps Engineer senior"
+tags:
+  - interview
+  - company/jpmorgan
+  - role/devops-engineer-senior
+  - topic/kubernetes
+  - topic/terraform
+  - topic/azure
+  - topic/ci-cd
+  - topic/jenkins
+  - topic/monitoring
+  - topic/sre
+  - topic/networking
+  - topic/security
+  - topic/databases
+---
+
 # JPMorgan
 
 **Exp---> Senior DevOps Engineer**

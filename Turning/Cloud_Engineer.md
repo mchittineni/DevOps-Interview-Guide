@@ -1,3 +1,15 @@
+---
+company: "Turning"
+role: "Cloud Engineer"
+tags:
+  - interview
+  - company/turning
+  - role/cloud-engineer
+  - topic/aws
+  - topic/ci-cd
+  - topic/git
+---
+
 # Turning
 
 **Exp---> Cloud Engineer**

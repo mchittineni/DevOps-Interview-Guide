@@ -1,3 +1,19 @@
+---
+company: "Unknown"
+role: "DevOps Engineer"
+interview: 8
+tags:
+  - interview
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/terraform
+  - topic/aws
+  - topic/ci-cd
+  - topic/jenkins
+  - topic/security
+---
+
 # Others
 
 - From one of the linkedin post >

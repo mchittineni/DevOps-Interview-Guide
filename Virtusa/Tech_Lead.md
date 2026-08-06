@@ -1,3 +1,18 @@
+---
+company: "Virtusa"
+role: "Tech Lead"
+tags:
+  - interview
+  - company/virtusa
+  - role/tech-lead
+  - topic/kubernetes
+  - topic/docker
+  - topic/terraform
+  - topic/aws
+  - topic/networking
+  - topic/scripting
+---
+
 # Virtusa
 
 **Exp---> Tech lead**

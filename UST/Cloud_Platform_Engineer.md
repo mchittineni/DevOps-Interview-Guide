@@ -1,3 +1,16 @@
+---
+company: "UST"
+role: "Cloud Platform Engineer"
+tags:
+  - interview
+  - company/ust
+  - role/cloud-platform-engineer
+  - topic/terraform
+  - topic/aws
+  - topic/ci-cd
+  - topic/scripting
+---
+
 # UST
 
 **EXP-3-5 yrs**

@@ -1,3 +1,19 @@
+---
+company: "Emphasis"
+role: "DevOps Engineer"
+interview: 2
+tags:
+  - interview
+  - company/emphasis
+  - role/devops-engineer
+  - topic/terraform
+  - topic/aws
+  - topic/ci-cd
+  - topic/jenkins
+  - topic/networking
+  - topic/databases
+---
+
 # Emphasis
 
 - What is AWS Lambda and how do you design a serverless application?

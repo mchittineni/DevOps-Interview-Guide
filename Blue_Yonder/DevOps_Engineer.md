@@ -1,3 +1,16 @@
+---
+company: "Blue Yonder"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/blue-yonder
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/azure
+  - topic/ci-cd
+  - topic/security
+---
+
 # Blue Yonder
 
 - •    How do you use Azure Key vault's secrets in AKS?

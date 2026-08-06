@@ -1,3 +1,18 @@
+---
+company: "EY"
+role: "DevOps Engineer"
+interview: 1
+tags:
+  - interview
+  - company/ey
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/terraform
+  - topic/git
+  - topic/monitoring
+---
+
 # E&Y
 
 - Introduction

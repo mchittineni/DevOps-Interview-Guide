@@ -1,3 +1,19 @@
+---
+company: "HCL"
+role: "DevOps Engineer"
+interview: 2
+tags:
+  - interview
+  - company/hcl
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/terraform
+  - topic/aws
+  - topic/ci-cd
+  - topic/monitoring
+---
+
 # HCL
 
 - what is diff between pv and pvc

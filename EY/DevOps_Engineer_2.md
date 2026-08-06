@@ -1,3 +1,19 @@
+---
+company: "EY"
+role: "DevOps Engineer"
+interview: 2
+tags:
+  - interview
+  - company/ey
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/ci-cd
+  - topic/jenkins
+  - topic/git
+  - topic/security
+---
+
 # E&Y
 
 **experienc---->**

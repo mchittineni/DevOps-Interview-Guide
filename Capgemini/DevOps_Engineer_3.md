@@ -1,7 +1,21 @@
+---
+company: "Capgemini"
+role: "DevOps Engineer"
+interview: 3
+tags:
+  - interview
+  - company/capgemini
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/terraform
+  - topic/aws
+  - topic/networking
+  - topic/databases
+---
+
 # Capgemini
 
 **exp----**
-
 
 - What is the difference between NAT Gateway and IGW?
 - If your pod is in Pending state, then what are your troubleshoot steps?

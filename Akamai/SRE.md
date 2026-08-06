@@ -1,3 +1,15 @@
+---
+company: "Akamai"
+role: "SRE"
+tags:
+  - interview
+  - company/akamai
+  - role/sre
+  - topic/linux
+  - topic/sre
+  - topic/networking
+---
+
 # Akamai
 
 **Exp---8yrs  SRE**

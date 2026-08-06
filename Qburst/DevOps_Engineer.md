@@ -1,3 +1,17 @@
+---
+company: "Qburst"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/qburst
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/terraform
+  - topic/aws
+  - topic/gcp
+---
+
 # Qburst
 
 **EXP-3-5 yrs**

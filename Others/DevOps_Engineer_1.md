@@ -1,3 +1,24 @@
+---
+company: "Unknown"
+role: "DevOps Engineer"
+interview: 1
+tags:
+  - interview
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/terraform
+  - topic/aws
+  - topic/ci-cd
+  - topic/ansible
+  - topic/linux
+  - topic/git
+  - topic/monitoring
+  - topic/security
+  - topic/scripting
+  - topic/databases
+---
+
 # Others
 
 - L1 Questions:

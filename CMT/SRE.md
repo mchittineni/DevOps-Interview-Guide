@@ -1,3 +1,19 @@
+---
+company: "CMT"
+role: "SRE"
+tags:
+  - interview
+  - company/cmt
+  - role/sre
+  - topic/kubernetes
+  - topic/terraform
+  - topic/aws
+  - topic/linux
+  - topic/monitoring
+  - topic/sre
+  - topic/networking
+---
+
 # CMT
 
 **Exp-  4-5 yrs(SRE)**

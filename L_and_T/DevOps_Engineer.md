@@ -1,3 +1,17 @@
+---
+company: "L and T"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/l-and-t
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/ansible
+  - topic/git
+  - topic/security
+---
+
 # L&T
 
 **EXP-- 9years(4yrs in devops)**

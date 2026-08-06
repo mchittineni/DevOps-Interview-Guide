@@ -1,3 +1,14 @@
+---
+company: "NatWest Group"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/natwest-group
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/linux
+---
+
 # NatWest Group
 
 - about Maven release

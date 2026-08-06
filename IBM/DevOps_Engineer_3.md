@@ -1,3 +1,20 @@
+---
+company: "IBM"
+role: "DevOps Engineer"
+interview: 3
+tags:
+  - interview
+  - company/ibm
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/terraform
+  - topic/aws
+  - topic/ci-cd
+  - topic/jenkins
+  - topic/ansible
+  - topic/linux
+---
+
 # IBM
 
 **YOE: 5 +**

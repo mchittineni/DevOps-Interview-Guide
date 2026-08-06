@@ -1,9 +1,27 @@
+---
+company: "Infosys"
+role: "DevOps Engineer"
+interview: 1
+tags:
+  - interview
+  - company/infosys
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/terraform
+  - topic/ci-cd
+  - topic/git
+  - topic/monitoring
+---
+
 # Infosys
 
 1. Introduce yourself
 2. git commands used in day to day activities
 3. write sample docker file
+
 - 4 write sample terraform resource file
+
 5. Difference between git rebase and git merge
 6. difference between cmd and entry point
 7. explain about Prometheus and grafana

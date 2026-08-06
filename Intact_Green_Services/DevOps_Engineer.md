@@ -1,3 +1,18 @@
+---
+company: "Intact Green Services"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/intact-green-services
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/terraform
+  - topic/aws
+  - topic/ci-cd
+  - topic/jenkins
+---
+
 # Intact Green Services
 
 **exp ----- 5 yrs**

@@ -1,13 +1,30 @@
+---
+company: "EXL Service"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/exl-service
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/terraform
+  - topic/aws
+  - topic/ci-cd
+  - topic/git
+  - topic/monitoring
+  - topic/sre
+  - topic/networking
+  - topic/security
+---
+
 # EXL Service
 
 **YOE---> 5 yrs**
-
 
 - You are onboarding a new customer with 5 million+ users. How would you design the complete application architecture as a Solution Architect?
 - Explain your complete CI/CD pipeline from code commit to production deployment.
 - Explain your Git branching strategy. How do you deploy code from different branches to different environments?
 - If Git is already the source of truth, why do we need Argo CD? Why not deploy directly using the CI/CD pipeline with Helm or kubectl?
-- Explain the complete request flow when a user accesses www.ingress.com until the request reaches the application pod.
+- Explain the complete request flow when a user accesses <www.ingress.com> until the request reaches the application pod.
 - You need to expose an application internally without using a LoadBalancer or NodePort service. How would you do it?
 - Pods in different namespaces can communicate. How would you block that communication? Where would you implement the NetworkPolicy?
 - Suppose you are implementing a Canary deployment where only 10% of users receive the new version. How would you implement it through your CI/CD pipeline?

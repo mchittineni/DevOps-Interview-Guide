@@ -1,3 +1,18 @@
+---
+company: "Nitor Infotech"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/nitor-infotech
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/terraform
+  - topic/aws
+  - topic/ci-cd
+  - topic/jenkins
+  - topic/security
+---
+
 # Nitor Infotech
 
 **YOE-->6 yr**
@@ -20,10 +35,12 @@
 16. How do you handle infrastructure code for multiple environments using terraform
 17. State locking in terraform
 18. Create a Deployment named web-app with:
+
 - Image: nginx:1.25
 - Replicas: 3
 - Container port: 80
 - Labels: app=web
+
 19. Write a nodeport service to expose the application on port 8080 for the above deployment
 20. Write a script to count how many processes are running under the user ubuntu.
 21. How have you implemented RBAC in your EKS setup

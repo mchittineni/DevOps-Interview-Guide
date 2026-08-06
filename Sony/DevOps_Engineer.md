@@ -1,5 +1,20 @@
-# Sony
+---
+company: "Sony"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/sony
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/terraform
+  - topic/aws
+  - topic/ci-cd
+  - topic/jenkins
+  - topic/monitoring
+  - topic/sre
+---
 
+# Sony
 
 1. How would you respond to a production outage during peak hours?
 2. So how do you guarantee zero downtime deployments in Kubernetes.
@@ -13,6 +28,7 @@
 10. What steps do you take when monitoring metrics say the system is healthy but users are still complaining?
 11. How do you design alerting so that you avoid noisy or false alerts?
 12. How do you design alerting to avoid alert fatigue?
+
 - I want jenkins run pipeline once n number of commits are pushed how will you do that.
 - What are the vulnerability reports in your sonarqube.
 - If I want to start an ec2 instance once the cpu is utilised 80% what terraform code will you write and it also should copy the image from S3.

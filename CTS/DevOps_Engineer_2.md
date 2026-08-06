@@ -1,3 +1,18 @@
+---
+company: "CTS"
+role: "DevOps Engineer"
+interview: 2
+tags:
+  - interview
+  - company/cts
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/aws
+  - topic/ci-cd
+  - topic/jenkins
+  - topic/networking
+---
+
 # CTS (Cognizant)
 
 **Exp->3-4yr**

@@ -1,3 +1,17 @@
+---
+company: "Aspire"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/aspire
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/terraform
+  - topic/aws
+  - topic/git
+  - topic/security
+---
+
 # Aspire
 
 - Comapny - Aspire

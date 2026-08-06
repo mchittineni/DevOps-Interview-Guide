@@ -1,3 +1,21 @@
+---
+company: "Unknown"
+role: "DevOps Engineer"
+interview: 10
+tags:
+  - interview
+  - role/devops-engineer
+  - topic/docker
+  - topic/terraform
+  - topic/aws
+  - topic/ci-cd
+  - topic/jenkins
+  - topic/ansible
+  - topic/linux
+  - topic/git
+  - topic/networking
+---
+
 # Others
 
 - Devops interview questions

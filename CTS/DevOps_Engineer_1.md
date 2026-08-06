@@ -1,3 +1,16 @@
+---
+company: "CTS"
+role: "DevOps Engineer"
+interview: 1
+tags:
+  - interview
+  - company/cts
+  - role/devops-engineer
+  - topic/terraform
+  - topic/networking
+  - topic/security
+---
+
 # CTS (Cognizant)
 
 - What is connection drain
@@ -7,7 +20,6 @@
 - Types of load balancers
 - What is Az App Gateway and how it encrypt http/https traffic
 - App is down and throwing 503 err code, what steps should be taken
-
 
 - Also for question 4 is the answer the below?
 - Check the status of nginx/apache service that was used to host the web app

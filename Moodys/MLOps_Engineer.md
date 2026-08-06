@@ -1,3 +1,16 @@
+---
+company: "Moodys"
+role: "MLOps Engineer"
+tags:
+  - interview
+  - company/moodys
+  - role/mlops-engineer
+  - topic/docker
+  - topic/terraform
+  - topic/aws
+  - topic/ci-cd
+---
+
 # Moodys
 
 **YOE---->3-4 yrs**

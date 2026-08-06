@@ -1,3 +1,17 @@
+---
+company: "TCS"
+role: "SRE"
+interview: 2
+tags:
+  - interview
+  - company/tcs
+  - role/sre
+  - topic/kubernetes
+  - topic/docker
+  - topic/terraform
+  - topic/databases
+---
+
 # TCS
 
 **EXP--->**

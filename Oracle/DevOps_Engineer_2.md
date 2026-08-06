@@ -1,3 +1,15 @@
+---
+company: "Oracle"
+role: "DevOps Engineer"
+interview: 2
+tags:
+  - interview
+  - company/oracle
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/networking
+---
+
 # Oracle
 
 **Exp----7 YOE - DevOps Engineer**

@@ -1,3 +1,17 @@
+---
+company: "Persistent Systems"
+role: "DevOps Engineer"
+interview: 1
+tags:
+  - interview
+  - company/persistent-systems
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/aws
+  - topic/ci-cd
+  - topic/networking
+---
+
 # Persistent Systems
 
 **Exp---9YOE DevOps - 5YOE**

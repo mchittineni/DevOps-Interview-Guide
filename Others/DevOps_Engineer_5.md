@@ -1,3 +1,21 @@
+---
+company: "Unknown"
+role: "DevOps Engineer"
+interview: 5
+tags:
+  - interview
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/terraform
+  - topic/aws
+  - topic/linux
+  - topic/monitoring
+  - topic/sre
+  - topic/networking
+  - topic/scripting
+---
+
 # Others
 
 1) What will happen if the k8 master node and worker node firewall gets broken? Will the existing deployments work or impact on any new deploymentsHow will you communicate to people
@@ -15,6 +33,7 @@
 13) A sudden surge in traffic causes a web application to become unresponsive what will be the steps you will take to mitigate
 14) Design the deployment of the pod with replica set set as 3 and having apache httpd image running as a container.
 15) How do you reduce the size of Dockerfile
+
 - Write a shell script to find and delete all files in a directory that are older than 30 days.
 - Create a script to monitor the disk usage of a server. If usage exceeds 80%, log the details to a file and send an alert email.
 - Write a script that renames all .txt files in a directory by appending the current date to the filename.

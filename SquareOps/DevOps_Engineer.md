@@ -1,3 +1,21 @@
+---
+company: "SquareOps"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/squareops
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/terraform
+  - topic/aws
+  - topic/ci-cd
+  - topic/jenkins
+  - topic/git
+  - topic/networking
+  - topic/security
+  - topic/databases
+---
+
 # SquareOps
 
 - 🏗️ Infrastructure & Architecture

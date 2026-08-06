@@ -1,3 +1,19 @@
+---
+company: "RelevantZ"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/relevantz
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/terraform
+  - topic/azure
+  - topic/ci-cd
+  - topic/networking
+  - topic/security
+  - topic/databases
+---
+
 # RelevantZ
 
 - RelevantZ interview questions
@@ -23,6 +39,8 @@
 15. suppose I want to communicate from subscription to another subscription, what are all the methods available to achieve it
 16. tell me some commands on kubernetes – how do you troubleshoot it
 17. what is terraform drift
+
 - there is data in ADF, data will not be constant always, it will be dynamic how do you get the data and analyse it and present (it can be done through pipeline too)
+
 19. what do you do with azure recovery service vault
 20. how do you take backups and explain some strategies which you had used

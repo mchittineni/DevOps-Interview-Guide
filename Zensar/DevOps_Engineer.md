@@ -1,3 +1,17 @@
+---
+company: "Zensar"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/zensar
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/azure
+  - topic/ci-cd
+  - topic/monitoring
+---
+
 # Zensar
 
 **Exp-:6+ years**

@@ -1,3 +1,18 @@
+---
+company: "HCL"
+role: "DevOps Engineer"
+interview: 3
+tags:
+  - interview
+  - company/hcl
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/terraform
+  - topic/aws
+  - topic/ci-cd
+  - topic/networking
+---
+
 # HCL
 
 **exp ----- 5 yrs**

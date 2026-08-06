@@ -1,3 +1,16 @@
+---
+company: "Hexaware"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/hexaware
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/terraform
+  - topic/azure
+  - topic/ci-cd
+---
+
 # Hexaware
 
 **Exp--4-5yrs**
@@ -15,5 +28,5 @@
 10. how do you moved the code from one environment to other environment
 11. what is variable group in azure devops
 12. what is sonarqube and which purpose it is used for
- 13. Write sample terraform code (overall skeleton)
+13. Write sample terraform code (overall skeleton)
 14. what are the files available inside helm chart

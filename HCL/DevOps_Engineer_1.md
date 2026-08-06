@@ -1,3 +1,20 @@
+---
+company: "HCL"
+role: "DevOps Engineer"
+interview: 1
+tags:
+  - interview
+  - company/hcl
+  - role/devops-engineer
+  - topic/docker
+  - topic/terraform
+  - topic/azure
+  - topic/ci-cd
+  - topic/jenkins
+  - topic/git
+  - topic/security
+---
+
 # HCL
 
 **exp--> 4-5**

@@ -1,7 +1,22 @@
+---
+company: "CGI"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/cgi
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/ci-cd
+  - topic/jenkins
+  - topic/git
+  - topic/security
+  - topic/databases
+---
+
 # CGI
 
 **YOE---> 4.1 yrs**
-
 
 - CI/CD & Jenkins
 - How did you reduce a pipeline from 1 hour to 20 minutes?

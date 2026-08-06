@@ -1,3 +1,20 @@
+---
+company: "Koerber Pharma"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/koerber-pharma
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/terraform
+  - topic/aws
+  - topic/ci-cd
+  - topic/jenkins
+  - topic/monitoring
+  - topic/security
+---
+
 # Koerber Pharma
 
 **Exp --9 yrs Relevant (5 years)**

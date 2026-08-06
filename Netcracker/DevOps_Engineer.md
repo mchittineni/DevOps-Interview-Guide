@@ -1,3 +1,16 @@
+---
+company: "Netcracker"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/netcracker
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/linux
+  - topic/monitoring
+  - topic/networking
+---
+
 # Netcracker
 
 **Exp- 7 Years - DevOps role**

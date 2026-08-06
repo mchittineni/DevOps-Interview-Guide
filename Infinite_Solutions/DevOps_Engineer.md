@@ -1,3 +1,13 @@
+---
+company: "Infinite Solutions"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/infinite-solutions
+  - role/devops-engineer
+  - topic/kubernetes
+---
+
 # Infinite Solutions
 
 **Exp-5 yeras**

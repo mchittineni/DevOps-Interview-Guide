@@ -1,3 +1,19 @@
+---
+company: "TCS"
+role: "SRE"
+interview: 1
+tags:
+  - interview
+  - company/tcs
+  - role/sre
+  - topic/kubernetes
+  - topic/terraform
+  - topic/aws
+  - topic/ansible
+  - topic/linux
+  - topic/scripting
+---
+
 # TCS
 
 **EXP--->**

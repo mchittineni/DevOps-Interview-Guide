@@ -1,3 +1,16 @@
+---
+company: "Morgan Stanley"
+role: "Release Engineer"
+tags:
+  - interview
+  - company/morgan-stanley
+  - role/release-engineer
+  - topic/kubernetes
+  - topic/linux
+  - topic/networking
+  - topic/scripting
+---
+
 # Morgan Stanley
 
 **EXP-- 7 YOE - Release engineer**

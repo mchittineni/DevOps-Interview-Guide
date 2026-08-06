@@ -1,3 +1,23 @@
+---
+company: "Deloitte"
+role: "DevOps Engineer"
+interview: 3
+tags:
+  - interview
+  - company/deloitte
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/terraform
+  - topic/aws
+  - topic/ci-cd
+  - topic/jenkins
+  - topic/ansible
+  - topic/linux
+  - topic/git
+  - topic/scripting
+---
+
 # Deloitte
 
 **EXP- 5yrs**

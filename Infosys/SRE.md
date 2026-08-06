@@ -1,3 +1,21 @@
+---
+company: "Infosys"
+role: "SRE"
+tags:
+  - interview
+  - company/infosys
+  - role/sre
+  - topic/kubernetes
+  - topic/terraform
+  - topic/aws
+  - topic/ci-cd
+  - topic/ansible
+  - topic/sre
+  - topic/networking
+  - topic/security
+  - topic/scripting
+---
+
 # Infosys
 
 **Exp---> 5+**

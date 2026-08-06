@@ -1,3 +1,19 @@
+---
+company: "Sigmoid"
+role: "DevOps Engineer"
+interview: 2
+tags:
+  - interview
+  - company/sigmoid
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/terraform
+  - topic/monitoring
+  - topic/networking
+  - topic/security
+  - topic/databases
+---
+
 # Sigmoid
 
 **Exp---> 7 YOE DevOps Engineer**

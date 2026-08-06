@@ -1,3 +1,19 @@
+---
+company: "Alphadyne"
+role: "DevOps Engineer"
+interview: 1
+tags:
+  - interview
+  - company/alphadyne
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/aws
+  - topic/ci-cd
+  - topic/jenkins
+  - topic/networking
+  - topic/security
+---
+
 # Alphadyne
 
 **YOE---> 5 Years**

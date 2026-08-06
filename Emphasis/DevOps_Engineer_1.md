@@ -1,3 +1,19 @@
+---
+company: "Emphasis"
+role: "DevOps Engineer"
+interview: 1
+tags:
+  - interview
+  - company/emphasis
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/docker
+  - topic/aws
+  - topic/ci-cd
+  - topic/networking
+  - topic/security
+---
+
 # Emphasis
 
 - I attended interview for devops role, they were asking very basic questions about devops & aws.

@@ -1,3 +1,13 @@
+---
+company: "Unknown"
+role: "Cloud Engineer"
+tags:
+  - interview
+  - role/cloud-engineer
+  - topic/aws
+  - topic/security
+---
+
 # Others
 
 - AWS Cloud Engineer role -:

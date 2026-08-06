@@ -1,3 +1,18 @@
+---
+company: "Publicis Global Delivery"
+role: "DevOps Engineer"
+tags:
+  - interview
+  - company/publicis-global-delivery
+  - role/devops-engineer
+  - topic/kubernetes
+  - topic/aws
+  - topic/ci-cd
+  - topic/jenkins
+  - topic/git
+  - topic/databases
+---
+
 # Publicis Global Delivery
 
 **Exp--->**
