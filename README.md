@@ -2,6 +2,10 @@
 
 Real interview questions collected from people who actually sat through DevOps, SRE, and Cloud engineering interviews in 2025 and 2026. No paraphrasing, no "top 50 questions" filler — these are the exact questions candidates were asked, organized so you can look up a specific company or just browse broadly to prep.
 
+> **Browse it as a website:** <https://mchittineni.github.io/DevOps-Interview-Guide/>
+> — full-text search, dark mode, and browse-by-tag. Built with MkDocs Material and published
+> automatically from `main`.
+
 ## What's here
 
 - **151 interview write-ups**
@@ -13,11 +17,15 @@ Some companies show up more than once — different candidates, different rounds
 ## How it's organized
 
 ```text
-<Company Name>/
-  DevOps_Engineer.md        (default when no specific role was mentioned)
-  DevOps_Engineer_2.md      (second interview for the same company)
-  SRE_principal.md          (used when a role was explicitly called out)
-  ...
+docs/
+  <Company Name>/
+    DevOps_Engineer.md      (default when no specific role was mentioned)
+    DevOps_Engineer_2.md    (second interview for the same company)
+    SRE_principal.md        (used when a role was explicitly called out)
+    ...
+  index.md                  (site landing page)
+  tags.md                   (browse-by-tag index)
+mkdocs.yml                  (site configuration)
 ```
 
 Each file is one interview experience. If a company was interviewed at more than once, you'll find multiple files in its folder instead of one giant merged list. Roles are reflected in the filename when the original submission mentioned one; otherwise it defaults to `DevOps_Engineer`.
@@ -26,7 +34,7 @@ Submissions that never named a company live under `Others/`.
 
 ## Using this as an Obsidian vault
 
-Every interview file carries YAML frontmatter, so the repo can be opened directly as an Obsidian vault (`Open folder as vault` → point it at the repo root). Tags are nested, which means Obsidian's tag pane groups them into a browsable tree:
+Every interview file carries YAML frontmatter, so the repo can be opened directly as an Obsidian vault (`Open folder as vault` → point it at the `docs/` directory). Tags are nested, which means Obsidian's tag pane groups them into a browsable tree:
 
 ```yaml
 ---
@@ -60,9 +68,20 @@ Files under `Others/` have `company: "Unknown"` and carry no `company/` tag, sin
 
 Search the repo for a company name, or open its folder directly. If you're prepping broadly rather than for one company, skim a handful of folders across different company sizes (product companies, service companies like TCS/Infosys/Wipro, fintech, etc.) — the range of questions tells you more than any single list.
 
+## Previewing the site locally
+
+```bash
+python3 -m venv .venv && source .venv/bin/activate
+pip install -r requirements.txt
+mkdocs serve
+```
+
+Then open <http://127.0.0.1:8000>. `mkdocs build --strict` is what CI runs — it turns broken
+internal links into build failures, so run it before opening a PR that moves or renames pages.
+
 ## Contributing
 
-Have an interview experience worth sharing? Add it as a new file under the matching company folder (create the folder if it doesn't exist yet). Keep the one-file-per-interview format, and include the role and years of experience at the top if you can — it helps other candidates gauge relevance. If the company can't be named, put it under `Others/`.
+Have an interview experience worth sharing? Add it as a new file under the matching company folder in `docs/` (create the folder if it doesn't exist yet). Keep the one-file-per-interview format, and include the role and years of experience at the top if you can — it helps other candidates gauge relevance. If the company can't be named, put it under `docs/Others/`.
 
 ### Naming your file
 

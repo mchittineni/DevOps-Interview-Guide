@@ -28,7 +28,7 @@ interview, just say so and skip the rest).
 | Round(s) covered | <!-- e.g. screening, L2 technical, hiring manager --> |
 | Approximate date | <!-- e.g. March 2026 --> |
 | Years of experience | <!-- the candidate's, if you're comfortable sharing --> |
-| File added | <!-- e.g. Acme/DevOps_Engineer.md --> |
+| File added | <!-- e.g. docs/Acme/DevOps_Engineer.md --> |
 
 ## Checklist
 
@@ -49,7 +49,7 @@ interview, just say so and skip the rest).
 
 ### Placement
 
-- [ ] File is in the correct company folder, or under `Others/` if the company can't be named
+- [ ] File is in the correct company folder under `docs/`, or under `docs/Others/` if the company can't be named
 - [ ] Folder name matches the existing convention (underscores for spaces, e.g. `Morgan_Stanley`)
 - [ ] Filename follows `<Role>.md`, numbered if a file for that role already exists (`DevOps_Engineer_2.md`)
 - [ ] An existing file was **not** overwritten or merged into — separate interviews stay in separate files
