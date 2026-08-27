@@ -1,0 +1,4 @@
+# Documentation site dependencies.
+# Pinned so a new upstream release can never break an unrelated content PR.
+# mkdocs itself is pulled in as a dependency of mkdocs-material.
+mkdocs-material==9.7.7

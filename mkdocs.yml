@@ -1,0 +1,68 @@
+site_name: DevOps & SRE Interview Questions
+site_description: >-
+  Real interview questions from DevOps, SRE, and Cloud engineering interviews,
+  recorded as they were asked and organised by company.
+site_url: https://mchittineni.github.io/DevOps-Interview-Guide/
+
+repo_url: https://github.com/mchittineni/DevOps-Interview-Guide
+repo_name: mchittineni/DevOps-Interview-Guide
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.action.edit
+    - content.code.copy
+  palette:
+    # Follows the reader's OS setting, with a manual override either way.
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+plugins:
+  - search
+  # Listing page is auto-detected from the <!-- material/tags --> marker in tags.md
+  - tags
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/mchittineni/DevOps-Interview-Guide
