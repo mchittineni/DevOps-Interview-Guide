@@ -2,6 +2,7 @@
 company: "Synechron"
 role: "DevOps Engineer"
 interview: 3
+experience: "4 years"
 tags:
   - interview
   - company/synechron
@@ -14,13 +15,9 @@ tags:
   - topic/monitoring
 ---
 
-# Synechron
+# Synechron — DevOps Engineer (Interview 3)
 
-- Client -Morgan Stanley,
-
-**Exp--4 year**
-
-- All the questions are scenario-based and counter questions. - I have remembered these question , all the counter questions into CICD related and Kubernets.
+Client: Morgan Stanley. All the questions are scenario-based and counter questions. I have remembered these question , all the counter questions into CICD related and Kubernets.
 
 1. Can you explain what CI/CD is and describe how you have implemented CI/CD pipelines in one of your projects?
 2. How does an AWS CodePipeline differ from a Jenkins pipeline? Can you give an example of when you would choose one over the other?
@@ -38,4 +35,4 @@ tags:
 14. What is Helm, and why do you prefer to use it for managing Kubernetes applications instead of deploying them normally?
 15. Can you describe the main components of a Kubernetes cluster and explain the role each one plays?
 16. If you want to use the feature branch instead of the main branch, how will you design the CICD?
-17.  If any issue occurred in PIPELINE, who handled the issues, and how do the troubleshoot?
+17. If any issue occurred in PIPELINE, who handled the issues, and how do the troubleshoot?

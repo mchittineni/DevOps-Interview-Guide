@@ -2,6 +2,7 @@
 company: "Synechron"
 role: "DevOps Engineer"
 interview: 1
+experience: "13 years"
 tags:
   - interview
   - company/synechron
@@ -14,9 +15,9 @@ tags:
   - topic/scripting
 ---
 
-# Synechron
+# Synechron — DevOps Engineer (Interview 1)
 
-**Exp----13 YOE - 5yr DevOps Engineer**
+13 years total, 5 years as a DevOps Engineer.
 
 - What is azure board, what are the things inside it
 - What is pom.xml in maven

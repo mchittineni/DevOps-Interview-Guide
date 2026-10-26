@@ -2,6 +2,7 @@
 company: "Synechron"
 role: "DevOps Engineer"
 interview: 2
+experience: "3 years"
 tags:
   - interview
   - company/synechron
@@ -15,9 +16,9 @@ tags:
   - topic/sre
 ---
 
-# Synechron
+# Synechron — DevOps Engineer (Interview 2)
 
-**Exp---- 3yr DevOps Engineer**
+Candidate profile: DevOps Engineer.
 
 - Tell me the difference between Docker and Docker Compose ?
 - Tell me about  Docker Compose and Kubernetes ?
