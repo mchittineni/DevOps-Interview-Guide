@@ -2,6 +2,7 @@
 company: "Infosys"
 role: "DevOps Engineer"
 interview: 3
+experience: "3 years"
 tags:
   - interview
   - company/infosys
@@ -14,9 +15,7 @@ tags:
   - topic/scripting
 ---
 
-# Infosys
-
-**YOE---> 3 yrs**
+# Infosys — DevOps Engineer (Interview 3)
 
 - What is your day to day activities
 - How do you reduce docker image size
