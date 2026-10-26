@@ -1,6 +1,7 @@
 ---
 company: "Infinite Solutions"
 role: "DevOps Engineer"
+experience: "5 years"
 tags:
   - interview
   - company/infinite-solutions
@@ -8,9 +9,7 @@ tags:
   - topic/kubernetes
 ---
 
-# Infinite Solutions
-
-**Exp-5 yeras**
+# Infinite Solutions — DevOps Engineer
 
 - How you are mangaing the kubenretes DR
 - How you are taking backup kubernetes .
