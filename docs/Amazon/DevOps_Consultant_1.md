@@ -2,6 +2,7 @@
 company: "Amazon"
 role: "DevOps Consultant"
 interview: 1
+experience: "9 years"
 tags:
   - interview
   - company/amazon
@@ -13,9 +14,9 @@ tags:
   - topic/networking
 ---
 
-# Amazon
+# Amazon — DevOps Consultant (Interview 1)
 
-**Exp-9years(Devops Consulatnt)**
+Candidate profile: Devops Consulatnt.
 
 - Sending log files from EC2 to S3, what are the steps ?
 - Limiting the resource usage in k8s not through deployment.yam → Through namespace
