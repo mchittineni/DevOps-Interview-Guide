@@ -1,6 +1,7 @@
 ---
 company: "Verizon"
 role: "DevOps Engineer"
+experience: "3 years"
 tags:
   - interview
   - company/verizon
@@ -13,9 +14,7 @@ tags:
   - topic/databases
 ---
 
-# Verizon
-
-**Exp---3 years**
+# Verizon — DevOps Engineer
 
 1. what are the disadvantages of each deployment models in k8s
 
