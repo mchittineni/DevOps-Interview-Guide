@@ -1,6 +1,7 @@
 ---
 company: "AMEX"
 role: "DevOps Engineer"
+experience: "3 years"
 tags:
   - interview
   - company/amex
@@ -10,9 +11,7 @@ tags:
   - topic/sre
 ---
 
-# AMEX
-
-**YOE---> 3 yrs**
+# AMEX — DevOps Engineer
 
 - whats the difference between docker and kubernetes
 - how to reduce the downtime with deployments
