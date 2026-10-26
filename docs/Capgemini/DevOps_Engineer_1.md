@@ -2,6 +2,7 @@
 company: "Capgemini"
 role: "DevOps Engineer"
 interview: 1
+experience: "6+ years"
 tags:
   - interview
   - company/capgemini
@@ -14,9 +15,9 @@ tags:
   - topic/databases
 ---
 
-# Capgemini
+# Capgemini — DevOps Engineer (Interview 1)
 
-**Exp- 6+ yrs overall experience (considering 3 yrs in devops)**
+6+ years overall experience, considering 3 years in DevOps.
 
 - How to assign memory to pod and how to make sure if pod should not get memory constraint. What to do if it happens.
 - How to pass variable in azure pipeline? how to parameterize pipeline

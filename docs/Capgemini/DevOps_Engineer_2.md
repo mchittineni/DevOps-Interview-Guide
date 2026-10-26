@@ -2,6 +2,7 @@
 company: "Capgemini"
 role: "DevOps Engineer"
 interview: 2
+experience: "9 years"
 tags:
   - interview
   - company/capgemini
@@ -13,11 +14,11 @@ tags:
   - topic/databases
 ---
 
-# Capgemini
+# Capgemini — DevOps Engineer (Interview 2)
 
-**Exp-9yrs Relevant(5yrs in devops)**
+9 years relevant, 5 years in DevOps.
 
-**Ansible**
+## Ansible
 
 1. What is an Ansible playbook?
 2. How to install Ansible on Ubuntu and RedHat, and start services?
@@ -38,7 +39,7 @@ tags:
 17. How to increase debug log level?
 18. Difference between static and dynamic inventory
 
-**Kubernetes**
+## Kubernetes
 
 1. What is the architecture of Kubernetes?
 2. kubectl apply command – how the services are used?
@@ -55,7 +56,7 @@ tags:
 13. Canary deployment
 14. What is CSI?
 
-**AWS**
+## AWS
 
 1. AWS Lambda function and Step Function
 2. What are autoscaling policies and their uses?
