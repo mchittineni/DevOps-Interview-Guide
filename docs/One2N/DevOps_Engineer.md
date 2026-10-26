@@ -12,9 +12,7 @@ tags:
   - topic/databases
 ---
 
-# One2N
-
-**YOE--->**
+# One2N — DevOps Engineer
 
 - What is something you have implemented end to end in your project
   - HPA implementation in detail
