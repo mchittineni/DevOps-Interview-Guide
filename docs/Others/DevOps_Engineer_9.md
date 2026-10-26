@@ -16,7 +16,7 @@ tags:
   - topic/scripting
 ---
 
-# Others
+# Undisclosed company — DevOps Engineer (Interview 9)
 
 - /var partition is 90% full. What’s your immediate action?
 - You’re locked out via SSH with no root access. How do you recover?

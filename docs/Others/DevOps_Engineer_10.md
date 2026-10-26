@@ -16,9 +16,10 @@ tags:
   - topic/networking
 ---
 
-# Others
+# Undisclosed company — DevOps Engineer (Interview 10)
 
-- Devops interview questions
+Devops interview questions
+
 - What is docker file what is inside it
 - Why K8 instead of docker swam
 - Architecture of K8

@@ -8,9 +8,9 @@ tags:
   - topic/security
 ---
 
-# Others
+# Undisclosed company — Cloud Engineer
 
-- AWS Cloud Engineer role -:
+AWS Cloud Engineer role
 
 - Explain OSI models
 - How do you did cost optimization in AWS?

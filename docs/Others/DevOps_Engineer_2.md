@@ -15,7 +15,7 @@ tags:
   - topic/security
 ---
 
-# Others
+# Undisclosed company — DevOps Engineer (Interview 2)
 
 - Whats ur organisation current cicd process and tools
 - How comfortable with AWS and how much rate urself out of 5?

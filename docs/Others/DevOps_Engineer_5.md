@@ -16,7 +16,7 @@ tags:
   - topic/scripting
 ---
 
-# Others
+# Undisclosed company — DevOps Engineer (Interview 5)
 
 1) What will happen if the k8 master node and worker node firewall gets broken? Will the existing deployments work or impact on any new deploymentsHow will you communicate to people
 2) How to use the secrets in kubernetes? What encryption methods do you use?

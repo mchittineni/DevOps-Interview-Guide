@@ -10,7 +10,7 @@ tags:
   - topic/scripting
 ---
 
-# Others
+# Undisclosed company — DevOps Engineer (Interview 14)
 
 - k8s node pending state how to debug
 - pod is pending state, due to disk issue, how to resolve

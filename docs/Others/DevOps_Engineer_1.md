@@ -19,9 +19,9 @@ tags:
   - topic/databases
 ---
 
-# Others
+# Undisclosed company — DevOps Engineer (Interview 1)
 
-- L1 Questions:
+## L1 Questions
 
 - In Git, explain the push and pull commands.
 - What is the use of Git tags?
@@ -36,7 +36,8 @@ tags:
 - In Airflow, if a job fails, how do you debug it?
 - If you're facing performance issues on a server, how do you troubleshoot?
 
-- 🔥 L2 Questions:
+## 🔥 L2 Questions
+
 - What are Network ACLs and Security Groups, and how do they differ?
 - Explain EC2 instances and handling multiple VPCs.
 - How do you configure AWS RDS, and what factors do you consider (size, requirements, etc.)?

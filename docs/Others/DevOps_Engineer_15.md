@@ -16,7 +16,7 @@ tags:
   - topic/scripting
 ---
 
-# Others
+# Undisclosed company — DevOps Engineer (Interview 15)
 
 - Pod is running fine, all the parameters looks good, but the traffic is not reaching the pod when the user is trying to access the application, what could be the possible reason ?
 - Imagepullbackoff, why and when this usually occurs ?
@@ -60,8 +60,8 @@ tags:
 - What if developer coming to you and saying that remove code quality from the pipeline as it is slow in scanning the code in this scenario what steps would you take?
 - What if I have 10 FE micro services and 10 BE micro services how do you design the cicd pipeline using jenkins?
 - How do you manage the state file in terraform and where do you store it?
-- Write your jenkins pipeline,
-- What is the purpose of agent, post-conditions and environment blocks in pipeline,
-- How do you perform complete backup up of Jenkins including jobs/configurations/authentications,
-- what are the ways to trigger the pipeline in Jenkins,
+- Write your jenkins pipeline
+- What is the purpose of agent, post-conditions and environment blocks in pipeline
+- How do you perform complete backup up of Jenkins including jobs/configurations/authentications
+- what are the ways to trigger the pipeline in Jenkins
 - I have 5 Jenkin jobs and how would you give view only access to other users.

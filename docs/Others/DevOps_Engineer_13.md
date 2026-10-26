@@ -19,7 +19,7 @@ tags:
   - topic/databases
 ---
 
-# Others
+# Undisclosed company — DevOps Engineer (Interview 13)
 
 - What is the difference between import and include in Ansible?
 - Can the same Terraform code be used for different cloud providers?
@@ -38,9 +38,9 @@ tags:
 - In a log file, there is a keyword ERR. Give me the count of errors in the file.
 - What is runs-on in a pipeline? Which type of runners are you using in your organization, and do you know how to configure self-hosted runners?
 - How do you trigger a pipeline if:
-- a. Code is pushed to a specific branch?
-- b. Ignore if it is pushed to some other branch?
-- c. Trigger if a PR is raised?
+  - a. Code is pushed to a specific branch?
+  - b. Ignore if it is pushed to some other branch?
+  - c. Trigger if a PR is raised?
 - What is a base image in a Dockerfile?
 - Can we write a Dockerfile without a base image?
 - What are decorators in Python?
@@ -55,7 +55,9 @@ tags:
 - Round 1: Technical Interview Questions
 - See Thread ›
 - There are no messages in this thread yet.
-- Round 2: Techno-Managerial Interview Questions
+
+## Round 2: Techno-Managerial Interview Questions
+
 - What type of GitHub branching strategy are you using? Please explain.
 - How do you run jobs in parallel in GitHub Actions?
 - How do you check the integrity of a Docker image or file?

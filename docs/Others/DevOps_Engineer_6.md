@@ -12,7 +12,7 @@ tags:
   - topic/networking
 ---
 
-# Others
+# Undisclosed company — DevOps Engineer (Interview 6)
 
 1) What is the difference between NSG and Firewall.
 2) What is the difference between COPY and ADD command in Docker File.
