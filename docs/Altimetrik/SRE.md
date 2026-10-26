@@ -14,7 +14,7 @@ tags:
   - topic/security
 ---
 
-# Altimetrik
+# Altimetrik — SRE
 
 - Question : How do you import a resource into Terraform that was created manually in AWS or GCP? What command would you use?
 
@@ -26,8 +26,7 @@ tags:
 
 - Question : Walk me through what is there in helm charts and how it is integrated.explain me that what is written on your helm charts?
 - what is defined on your value dot yaml file?
-- Question : Considering you have different environments and you have one application or which is microservice which is finally going to get deployed into one of the pod in GKE,
-- right? So how it is basically getting deployed in cluster? I mean the deployment is basically failing just on the pod is currently in the error state. It is getting terminated. So how are you going to troubleshoot those such kind of Kubernetes issues?
+- Question : Considering you have different environments and you have one application or which is microservice which is finally going to get deployed into one of the pod in GKE, right? So how it is basically getting deployed in cluster? I mean the deployment is basically failing just on the pod is currently in the error state. It is getting terminated. So how are you going to troubleshoot those such kind of Kubernetes issues?
 - What is your approach of doing a troubleshooting?
 
 - Question : Can you, talked about the dashboards of observability? Which are the observability framework tools That you're currently using?
@@ -50,8 +49,7 @@ tags:
 
 - Question : Set up the nodes and everything. what do you write inside a terraform code basically now what will be inside your provider file provided ATF in your main dotf?
 
-- Question : I'll give you an example like let's talk about AWS. You have you're going to create a VPC and subnet And your provider is AWS and I'm asking you to write in using terraform.
-- Like you have to deploy, you have to basically create VPC and map you have to create a subnet and you have to attach let's be the public or a private submit. It's of your choice to attach it to your VPC.
+- Question : I'll give you an example like let's talk about AWS. You have you're going to create a VPC and subnet And your provider is AWS and I'm asking you to write in using terraform. Like you have to deploy, you have to basically create VPC and map you have to create a subnet and you have to attach let's be the public or a private submit. It's of your choice to attach it to your VPC.
 
 - Question : You have optimized Kubernetes deployment configs. So can you explain me what have what was the role and what what have you done there?
 
