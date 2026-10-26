@@ -1,6 +1,7 @@
 ---
 company: "SAP"
 role: "DevOps Engineer"
+experience: "8 years"
 tags:
   - interview
   - company/sap
@@ -11,9 +12,9 @@ tags:
   - topic/git
 ---
 
-# SAP
+# SAP — DevOps Engineer
 
-**Exp---8yrs  Devops**
+Candidate profile: Devops.
 
 - Suppose a new deployment was implemented, suddenly all the PODs (new and old ones) crashed, what's the reason for this ? → New deployment exhausted the resource limit, so we need to use "limit" in our deployment.yaml file
 - Which deployment is better cost wise.
