@@ -1,6 +1,7 @@
 ---
 company: "Encora"
 role: "DevOps Engineer"
+experience: "7 years"
 tags:
   - interview
   - company/encora
@@ -12,9 +13,7 @@ tags:
   - topic/security
 ---
 
-# Encora
-
-**Exp---- 7 yrs**
+# Encora — DevOps Engineer
 
 1. what is terraform lifecycle
 2. i had created an resource manually, how to do you implement it through terraform
@@ -33,4 +32,5 @@ tags:
 15. am having an range of ip address 10.0.0.0/16 , I want to have 10.0.0.0/21 subnets , how will I achieve it terraform , how do use locals word and achieve it
 16. crashloopbackoff – what are the setps you will follow to troubleshoot further
 17. what are the branching strategies and pipeline creation mechanism
-18. what are the files present inside helm chart 19.what is CNI plugin
+18. what are the files present inside helm chart
+19. what is CNI plugin
