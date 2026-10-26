@@ -13,11 +13,9 @@ tags:
   - topic/databases
 ---
 
-# JPMorgan
+# JPMorgan — DevOps Engineer (Interview 1)
 
-**Experience--**
-
-**Round 1**
+## Round 1
 
 - Explain the project you are currently working on.
 - What types of Spring Boot starters have you used in the project?
@@ -37,7 +35,7 @@ tags:
 - // Remove a duplicate colors from the list and make it unique list.
 - You have two candle how you r going to calculate 45 mins, you are not allow to cut or measure .
 
-**Round 2**
+## Round 2
 
 - How are you provisioning your AWS services?
 - How do you provision container-based services for microservices deployment?
@@ -61,7 +59,7 @@ tags:
 - How active- passive is differ from active-active ?
 - //Find all pairs in an array that sum up to a specific number
 
-**Manager Round**
+## Manager Round
 
 - Can you share your previous experience?
 - Have you recently worked on any challenging tasks in your project?
