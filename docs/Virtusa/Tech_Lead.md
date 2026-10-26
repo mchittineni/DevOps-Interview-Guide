@@ -13,9 +13,9 @@ tags:
   - topic/scripting
 ---
 
-# Virtusa
+# Virtusa — Tech Lead
 
-**Exp---> Tech lead**
+Candidate profile: Tech lead.
 
 - difference between deployement and replicaset and daoemonset and statefulset (what key words you will be writing over the, for ex : deployement.yml – rolling update, canary)
 - what is chart.yml file contains in K8
