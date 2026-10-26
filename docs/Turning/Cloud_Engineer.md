@@ -10,9 +10,9 @@ tags:
   - topic/git
 ---
 
-# Turning
+# Turning — Cloud Engineer
 
-**Exp---> Cloud Engineer**
+Candidate profile: Cloud Engineer.
 
 - Failover happend in DB, so connection is switched from A to B, during this time interval, if user is writing some data, how to manage that ?
 - Lamdba cold start
