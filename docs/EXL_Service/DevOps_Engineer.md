@@ -1,6 +1,7 @@
 ---
 company: "EXL Service"
 role: "DevOps Engineer"
+experience: "5 years"
 tags:
   - interview
   - company/exl-service
@@ -16,9 +17,7 @@ tags:
   - topic/security
 ---
 
-# EXL Service
-
-**YOE---> 5 yrs**
+# EXL Service — DevOps Engineer
 
 - You are onboarding a new customer with 5 million+ users. How would you design the complete application architecture as a Solution Architect?
 - Explain your complete CI/CD pipeline from code commit to production deployment.
