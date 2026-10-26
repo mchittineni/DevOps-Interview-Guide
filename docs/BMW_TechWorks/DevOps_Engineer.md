@@ -1,6 +1,7 @@
 ---
 company: "BMW TechWorks"
 role: "DevOps Engineer"
+experience: "3–4 years"
 tags:
   - interview
   - company/bmw-techworks
@@ -10,9 +11,7 @@ tags:
   - topic/security
 ---
 
-# BMW TechWorks
-
-**YOE: 3-4yrs**
+# BMW TechWorks — DevOps Engineer
 
 1) Introduce yourself and explain your DevOps experience in the current organization.
 2) If an EC2 instance has a vulnerability, how would you identify and fix it?
