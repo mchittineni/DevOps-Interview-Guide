@@ -1,6 +1,7 @@
 ---
 company: "Morgan Stanley"
 role: "Release Engineer"
+experience: "7 years"
 tags:
   - interview
   - company/morgan-stanley
@@ -11,9 +12,9 @@ tags:
   - topic/scripting
 ---
 
-# Morgan Stanley
+# Morgan Stanley — Release Engineer
 
-**EXP-- 7 YOE - Release engineer**
+Candidate profile: Release engineer.
 
 - Reverse proxy and forward proxy
 - Ulimts
