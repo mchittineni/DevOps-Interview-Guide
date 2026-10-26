@@ -2,6 +2,7 @@
 company: "Sigmoid"
 role: "DevOps Engineer"
 interview: 1
+experience: "7 years"
 tags:
   - interview
   - company/sigmoid
@@ -9,9 +10,9 @@ tags:
   - topic/kubernetes
 ---
 
-# Sigmoid
+# Sigmoid — DevOps Engineer (Interview 1)
 
-**Exp---> 7 YOE DevOps Engineer**
+Candidate profile: DevOps Engineer.
 
 - Reverse the string using For loop
 - Check if the palindrome using For loop
