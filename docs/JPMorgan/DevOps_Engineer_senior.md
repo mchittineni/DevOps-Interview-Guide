@@ -17,9 +17,9 @@ tags:
   - topic/databases
 ---
 
-# JPMorgan
+# JPMorgan — DevOps Engineer senior
 
-**Exp---> Senior DevOps Engineer**
+Candidate profile: Senior DevOps Engineer.
 
 1. You’ve deployed an app to Azure Kubernetes Service (AKS) and it fails health checks randomly. How do you debug this end-to-end?
 
