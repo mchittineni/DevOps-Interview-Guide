@@ -2,6 +2,7 @@
 company: "Persistent Systems"
 role: "DevOps Engineer"
 interview: 2
+experience: "13 years"
 tags:
   - interview
   - company/persistent-systems
@@ -14,9 +15,9 @@ tags:
   - topic/scripting
 ---
 
-# Persistent Systems
+# Persistent Systems — DevOps Engineer (Interview 2)
 
-**Exp----13 YOE -rele- 5yr DevOps Engineer**
+13 years total, 5 years relevant as DevOps Engineer.
 
 1. Design an high availability and redundancy three tier architecture in azure
 2. Suppose you are having an e-commerce application  and slowness is there how will you troubleshoot

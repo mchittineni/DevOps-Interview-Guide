@@ -2,6 +2,7 @@
 company: "Persistent Systems"
 role: "DevOps Engineer"
 interview: 3
+experience: "5 years"
 tags:
   - interview
   - company/persistent-systems
@@ -14,9 +15,7 @@ tags:
   - topic/scripting
 ---
 
-# Persistent Systems
-
-**exp -----> 5 yrs**
+# Persistent Systems — DevOps Engineer (Interview 3)
 
 - Explain your last project
 - What are the AWS resources you have used in your previous role?
