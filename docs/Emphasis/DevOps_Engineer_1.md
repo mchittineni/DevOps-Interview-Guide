@@ -14,9 +14,10 @@ tags:
   - topic/security
 ---
 
-# Emphasis
+# Emphasis — DevOps Engineer (Interview 1)
 
-- I attended interview for devops role, they were asking very basic questions about devops & aws.
+I attended interview for devops role, they were asking very basic questions about devops & aws.
+
 - Explain components in 3-tier architecture
 - Explain Kubernetes architecture
 - How private subnet connect with outside world
