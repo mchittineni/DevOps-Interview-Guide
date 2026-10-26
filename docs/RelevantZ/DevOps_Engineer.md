@@ -1,6 +1,7 @@
 ---
 company: "RelevantZ"
 role: "DevOps Engineer"
+experience: "5 years"
 tags:
   - interview
   - company/relevantz
@@ -14,13 +15,11 @@ tags:
   - topic/databases
 ---
 
-# RelevantZ
+# RelevantZ — DevOps Engineer
 
-- RelevantZ interview questions
+RelevantZ interview questions.
 
-**Exp--->5 years**
-
-**Role ---> devops**
+Role: devops.
 
 1. Have you ever migrated on-premesis db to cloud , especially postgres or any other (port no of postgres sql too pls if you remember)
 2. how do you login into pods using kubectl command
