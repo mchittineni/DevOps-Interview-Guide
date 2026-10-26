@@ -1,6 +1,7 @@
 ---
 company: "Nitor Infotech"
 role: "DevOps Engineer"
+experience: "6 years"
 tags:
   - interview
   - company/nitor-infotech
@@ -13,9 +14,7 @@ tags:
   - topic/security
 ---
 
-# Nitor Infotech
-
-**YOE-->6 yr**
+# Nitor Infotech — DevOps Engineer
 
 1. CI/CD setup in current project. How does the flow look like
 2. Gitops approach, ArgoCD, Flux
@@ -35,12 +34,10 @@ tags:
 16. How do you handle infrastructure code for multiple environments using terraform
 17. State locking in terraform
 18. Create a Deployment named web-app with:
-
-- Image: nginx:1.25
-- Replicas: 3
-- Container port: 80
-- Labels: app=web
-
+    - Image: nginx:1.25
+    - Replicas: 3
+    - Container port: 80
+    - Labels: app=web
 19. Write a nodeport service to expose the application on port 8080 for the above deployment
 20. Write a script to count how many processes are running under the user ubuntu.
 21. How have you implemented RBAC in your EKS setup
