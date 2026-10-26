@@ -2,6 +2,7 @@
 company: "Deloitte"
 role: "DevOps Engineer"
 interview: 3
+experience: "5 years"
 tags:
   - interview
   - company/deloitte
@@ -18,9 +19,7 @@ tags:
   - topic/scripting
 ---
 
-# Deloitte
-
-**EXP- 5yrs**
+# Deloitte — DevOps Engineer (Interview 3)
 
 1. How do you migrate a git based repo from one of its kind to another git based repo(like GitHub to GitLab) along with its commit history? what are the steps you follow?
 2. Difference between Git fetch and Git pull? when do you use git fetch and git pull?

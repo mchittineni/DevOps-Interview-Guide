@@ -12,9 +12,7 @@ tags:
   - topic/scripting
 ---
 
-# Deloitte
-
-**Exp-:**
+# Deloitte — DevOps Engineer (Interview 1)
 
 - What types of nodes did you deploy in AWS?
 - What is the difference between Interface Endpoint and Gateway Endpoint?
