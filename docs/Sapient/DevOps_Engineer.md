@@ -1,6 +1,7 @@
 ---
 company: "Sapient"
 role: "DevOps Engineer"
+experience: "6 years"
 tags:
   - interview
   - company/sapient
@@ -11,12 +12,7 @@ tags:
   - topic/networking
 ---
 
-# Sapient
-
-- Comapny - Sapient
-- Position -
-
-**EXP--->6yr**
+# Sapient — DevOps Engineer
 
 - In AWS, what all the services you have used?
 - In Route 53, can you tell me the difference between A record and CNAME record (written as “ad code and symmetry code” in screenshot)?
