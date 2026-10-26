@@ -7,23 +7,52 @@ site_url: https://mchittineni.github.io/DevOps-Interview-Guide/
 repo_url: https://github.com/mchittineni/DevOps-Interview-Guide
 repo_name: mchittineni/DevOps-Interview-Guide
 edit_uri: edit/main/docs/
+copyright: Questions contributed by the community. Recorded as asked.
+
+exclude_docs: |
+  .obsidian/
+
+# Reported as warnings; `mkdocs build --strict` (what CI runs) makes them fatal.
+validation:
+  omitted_files: warn
+  absolute_links: warn
+  unrecognized_links: warn
+  # Tag anchors on tags.md are created by the tags plugin after this check runs.
+  anchors: info
+
+hooks:
+  - hooks/interview_pages.py
+
+extra_css:
+  - stylesheets/extra.css
 
 theme:
   name: material
+  font:
+    text: Inter
+    code: JetBrains Mono
   icon:
+    logo: material/account-tie-voice-outline
     repo: fontawesome/brands/github
+    edit: material/pencil-outline
+  favicon: assets/favicon.svg
   features:
     - navigation.instant
+    - navigation.instant.progress
     - navigation.tracking
-    - navigation.sections
-    - navigation.top
+    - navigation.tabs
+    - navigation.path
     - navigation.indexes
+    - navigation.prune
+    - navigation.footer
+    - navigation.top
     - toc.follow
     - search.suggest
     - search.highlight
     - search.share
     - content.action.edit
     - content.code.copy
+    - content.tooltips
   palette:
     # Follows the reader's OS setting, with a manual override either way.
     - media: "(prefers-color-scheme)"
@@ -47,8 +76,13 @@ theme:
 
 plugins:
   - search
-  # Listing page is auto-detected from the <!-- material/tags --> marker in tags.md
-  - tags
+  # Listings are placed with <!-- material/tags --> markers in tags.md.
+  # Hierarchy groups topic/*, role/* and company/* under one heading each;
+  # "interview" is on every page, so it's hidden rather than listed.
+  - tags:
+      tags_hierarchy: true
+      shadow_tags:
+        - interview
   # "Last updated" footer per page, from git history (CI checks out with fetch-depth: 0).
   - git-revision-date-localized:
       type: date
@@ -56,6 +90,7 @@ plugins:
       fallback_to_build_date: true
 
 markdown_extensions:
+  - abbr
   - admonition
   - attr_list
   - md_in_html
@@ -66,6 +101,14 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.highlight:
       anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 extra:
   social:

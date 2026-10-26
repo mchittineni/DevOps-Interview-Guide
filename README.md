@@ -3,8 +3,8 @@
 Real interview questions collected from people who actually sat through DevOps, SRE, and Cloud engineering interviews in 2025 and 2026. No paraphrasing, no "top 50 questions" filler — these are the exact questions candidates were asked, organized so you can look up a specific company or just browse broadly to prep.
 
 > **Browse it as a website:** <https://mchittineni.github.io/DevOps-Interview-Guide/>
-> — full-text search, dark mode, and browse-by-tag. Built with MkDocs Material and published
-> automatically from `main`.
+> — full-text search, a company directory, browse-by-topic, and dark mode. Built with MkDocs
+> Material and published automatically from `main`.
 
 ## What's here
 
@@ -25,8 +25,14 @@ docs/
     ...
   index.md                  (site landing page)
   tags.md                   (browse-by-tag index)
+  stylesheets/extra.css     (site styling)
+hooks/interview_pages.py    (build hook: company pages, nav, page summaries, live stats)
 mkdocs.yml                  (site configuration)
 ```
+
+Company overview pages, the A–Z company directory, and every count on the home page are generated
+at build time from each file's frontmatter, so there's nothing to update by hand when you add an
+interview.
 
 Each file is one interview experience. If a company was interviewed at more than once, you'll find multiple files in its folder instead of one giant merged list. Roles are reflected in the filename when the original submission mentioned one; otherwise it defaults to `DevOps_Engineer`.
 
@@ -41,6 +47,7 @@ Every interview file carries YAML frontmatter, so the repo can be opened directl
 company: "Accion Labs"
 role: "SRE"
 interview: 2 # only present when it's the Nth interview for that role
+experience: "5 years" # candidate's experience, if stated: "3.5 years", "3–5 years", "6+ years"
 tags:
   - interview
   - company/accion-labs
@@ -83,9 +90,44 @@ internal links into build failures, so run it before opening a PR that moves or 
 
 Have an interview experience worth sharing? Add it as a new file under the matching company folder in `docs/` (create the folder if it doesn't exist yet). Keep the one-file-per-interview format, and include the role and years of experience at the top if you can — it helps other candidates gauge relevance. If the company can't be named, put it under `docs/Others/`.
 
-### Naming your file
+### Page format
 
-Add YAML frontmatter at the top of the file — `company`, `role`, and `tags` — following the schema in [Using this as an Obsidian vault](#using-this-as-an-obsidian-vault). Pick `topic/` tags only from the fixed 17-topic vocabulary listed there, and only for topics the interview actually covered.
+Every page follows the same shape, so the site can render a consistent summary and table of contents:
+
+```markdown
+---
+company: "Acme"
+role: "DevOps Engineer"
+experience: "5 years"
+tags:
+  - interview
+  - company/acme
+  - role/devops-engineer
+  - topic/kubernetes
+---
+
+# Acme — DevOps Engineer
+
+Optional one-line context: number of rounds, format, location.
+
+## Round 1: Technical
+
+1. Question exactly as it was asked
+2. Next question
+```
+
+- **Frontmatter** — `company`, `role`, and `tags` are required; `experience` is optional. Follow the
+  schema in [Using this as an Obsidian vault](#using-this-as-an-obsidian-vault), and pick `topic/`
+  tags only from the fixed 17-topic vocabulary, for topics the interview actually covered.
+- **Title** — `# <Company> — <Role>`, with `(Interview N)` appended when `interview: N` is set. Use
+  `Undisclosed company` for files under `Others/`.
+- **Sections** — `##` for rounds (or topics, if there were no distinct rounds), `###` for topics
+  inside a round. Don't use bold text as a heading.
+- **Questions** — one list item per question, worded exactly as asked. Typos and casual phrasing
+  stay; that's the point of the repo.
+- **Code** — fenced with a language tag, indented under the question it belongs to.
+
+### Naming your file
 
 Use `<Role>.md`, with underscores instead of spaces — `DevOps_Engineer.md`, `SRE_principal.md`, `Cloud_Administrator_senior.md`. If a file for that role already exists in the folder, append the next number rather than merging into the existing one: `DevOps_Engineer_2.md`. Separate files preserve who was asked what, which is the point of the repo.
 
