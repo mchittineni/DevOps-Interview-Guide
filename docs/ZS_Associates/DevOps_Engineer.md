@@ -1,6 +1,7 @@
 ---
 company: "ZS Associates"
 role: "DevOps Engineer"
+experience: "6 years"
 tags:
   - interview
   - company/zs-associates
@@ -14,9 +15,7 @@ tags:
   - topic/databases
 ---
 
-# ZS Associates
-
-**YOE-->6 yr**
+# ZS Associates — DevOps Engineer
 
 - Multi stage docker build. In which scenarios it would be useful. Is is suitable for compile based language?
 - Layer caching, explain with an example
