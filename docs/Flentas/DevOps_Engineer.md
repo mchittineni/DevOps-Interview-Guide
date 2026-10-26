@@ -1,6 +1,7 @@
 ---
 company: "Flentas"
 role: "DevOps Engineer"
+experience: "3.5 years"
 tags:
   - interview
   - company/flentas
@@ -16,13 +17,9 @@ tags:
   - topic/databases
 ---
 
-# Flentas
+# Flentas — DevOps Engineer
 
-**exp -----> 3.5 yrs**
-
-- Interview Questions for Flentas (3.5 Years
-
-**Experience)**
+Interview Questions for Flentas (3.5 Years Experience)
 
 1. What is your architecture in your current project?
 2. What applications are deployed in the frontend and backend?
@@ -37,11 +34,7 @@ tags:
 11. What is the difference between the control plane and the data plane?
 12. What is the difference between a Pod and a Container?
 13. What are requests and limits in Kubernetes?
-14. One node has 8 vCPU and 32 GB RAM. With pod autoscaling up to 4 replicas, each pod having
-
-- limits of 4 vCPU / 16 GB and requests of 2 vCPU / 10 GB RAM, how many instances of the pod will
-- run?
-
+14. One node has 8 vCPU and 32 GB RAM. With pod autoscaling up to 4 replicas, each pod having limits of 4 vCPU / 16 GB and requests of 2 vCPU / 10 GB RAM, how many instances of the pod will run?
 15. What did you implement in Lambda and API Gateway?
 16. What is the difference between Redis and Memcached?
 17. Explain the Terraform folder structure.
@@ -50,23 +43,14 @@ tags:
 20. How do you handle resource dependencies in Terraform?
 21. When you ran terraform apply, did you encounter any unexpected changes?
 22. If there is a problem in Terraform, how will you roll back the changes?
-23. I have created an LB using Terraform, and some updates happened on it. Now I want to delete
-
-- the LB only — how will you do it?
-
+23. I have created an LB using Terraform, and some updates happened on it. Now I want to delete the LB only — how will you do it?
 24. How do you handle secrets in Terraform?
 25. How will you pass secrets from AWS Secrets Manager to the pipeline?
-26. Do you commit the tfvars file to Git? While running the pipeline, these parameters need to be
-
-- filled — how do you manage this in Jenkins?
-
+26. Do you commit the tfvars file to Git? While running the pipeline, these parameters need to be filled — how do you manage this in Jenkins?
 27. What is Docker?
 28. What is the difference between an image and a container?
 29. What is a Helm chart?
-30. I want to enable autoscaling in Kubernetes during high traffic. How will you scale both cluster
-
-- nodes and pods?
-
+30. I want to enable autoscaling in Kubernetes during high traffic. How will you scale both cluster nodes and pods?
 31. Can we use Cluster Autoscaler?
 32. How do you scale EC2 instances?
 33. When do we use VPA (Vertical Pod Autoscaler)?
