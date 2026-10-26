@@ -1,6 +1,7 @@
 ---
 company: "Syncortex"
 role: "Release Engineer"
+experience: "5 years"
 tags:
   - interview
   - company/syncortex
@@ -11,9 +12,9 @@ tags:
   - topic/ansible
 ---
 
-# Syncortex
+# Syncortex — Release Engineer
 
-**Exp---5yrs  Release engineer**
+Candidate profile: Release engineer.
 
 - Block, release_on in Ansible
 - Ansible command to view log during execution
