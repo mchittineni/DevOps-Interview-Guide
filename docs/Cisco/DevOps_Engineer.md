@@ -1,6 +1,7 @@
 ---
 company: "Cisco"
 role: "DevOps Engineer"
+experience: "6+ years"
 tags:
   - interview
   - company/cisco
@@ -17,11 +18,9 @@ tags:
   - topic/scripting
 ---
 
-# Cisco
+# Cisco — DevOps Engineer
 
-**Exp--->6+**
-
-- 1st Round
+## 1st Round
 
 - Describe a situation where you had to improve the reliability of a critical system.
 - What proactive monitoring solutions have you implemented in your projects?
@@ -35,7 +34,7 @@ tags:
 - What key things should you verify post-upgrade?
 - Write a script to monitor a directory and automatically copy any new files to a remote server using SCP.
 
-- 2nd Round-:
+## 2nd Round
 
 - write a playbook to install apache in VM?
 - How do you update the statefile from local to S3 bucket,what will you do if it gets lost.
