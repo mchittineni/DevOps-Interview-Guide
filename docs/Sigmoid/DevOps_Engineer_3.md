@@ -2,6 +2,7 @@
 company: "Sigmoid"
 role: "DevOps Engineer"
 interview: 3
+experience: "7 years"
 tags:
   - interview
   - company/sigmoid
@@ -14,9 +15,7 @@ tags:
   - topic/scripting
 ---
 
-# Sigmoid
-
-**Exp---> 7 YOE**
+# Sigmoid — DevOps Engineer (Interview 3)
 
 - If LB is created in us-south and that region is down what will happen ?
 - If RDS is hosted in us-west region and has read replicas spread across other region, due to some issue us-west region is down, how will you redirect your traffic. But having one more DB is expensive to the client
@@ -32,20 +31,23 @@ tags:
 - How to enable Debug logs in Terraform
 - Create system design for three tier architecture with secuirty and avalability in place.
 - Create a python script for this requirement
-- #Given a string s, find the length of the longest substring without duplicate characters.
 
-- #Example 1:
-- #Input: s = "abcabcbb"
-- #Output: 3
-- #Explanation: The answer is "abc", with the length of 3.
+  ```text
+  #Given a string s, find the length of the longest substring without duplicate characters.
 
-- #Example 2:
-- #Input: s = "bbbbb"
-- #Output: 1
-- #Explanation: The answer is "b", with the length of 1.
+  #Example 1:
+  #Input: s = "abcabcbb"
+  #Output: 3
+  #Explanation: The answer is "abc", with the length of 3.
 
-- #Example 3:
-- #Input: s = "pwwkew"
-- #Output: 3
-- #Explanation: The answer is "wke", with the length of 3.
-- #Notice that the answer must be a substring, "pwke" is a subsequence and not a substring.
+  #Example 2:
+  #Input: s = "bbbbb"
+  #Output: 1
+  #Explanation: The answer is "b", with the length of 1.
+
+  #Example 3:
+  #Input: s = "pwwkew"
+  #Output: 3
+  #Explanation: The answer is "wke", with the length of 3.
+  #Notice that the answer must be a substring, "pwke" is a subsequence and not a substring.
+  ```
