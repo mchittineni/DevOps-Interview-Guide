@@ -2,6 +2,7 @@
 company: "TCS"
 role: "DevOps Engineer"
 interview: 1
+experience: "9 years"
 tags:
   - interview
   - company/tcs
@@ -10,9 +11,9 @@ tags:
   - topic/linux
 ---
 
-# TCS
+# TCS — DevOps Engineer (Interview 1)
 
-**Exp -9 yrs devops rel-4yrs**
+9 years in DevOps, 4 years relevant.
 
 - What is jfrog artifactory
 - what is ansible tower
