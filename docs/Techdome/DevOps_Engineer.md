@@ -10,7 +10,7 @@ tags:
   - topic/terraform
 ---
 
-# Techdome
+# Techdome — DevOps Engineer
 
 1) Kubernetes architecture
 2) Deployment vs stateful set
