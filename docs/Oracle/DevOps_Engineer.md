@@ -1,6 +1,7 @@
 ---
 company: "Oracle"
 role: "DevOps Engineer"
+experience: "8 years"
 tags:
   - interview
   - company/oracle
@@ -10,9 +11,7 @@ tags:
   - topic/linux
 ---
 
-# Oracle
-
-**Experience - 8 years's**
+# Oracle — DevOps Engineer
 
 - What's the purpose of using init containers in K8s
 - Stateful vs deployment in k8s
