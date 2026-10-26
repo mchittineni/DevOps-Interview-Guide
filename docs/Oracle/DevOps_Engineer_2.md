@@ -2,6 +2,7 @@
 company: "Oracle"
 role: "DevOps Engineer"
 interview: 2
+experience: "7 years"
 tags:
   - interview
   - company/oracle
@@ -10,9 +11,9 @@ tags:
   - topic/networking
 ---
 
-# Oracle
+# Oracle — DevOps Engineer (Interview 2)
 
-**Exp----7 YOE - DevOps Engineer**
+Candidate profile: DevOps Engineer.
 
 - How do you give access to the user for a namespace in kubernetes cluster
 - What is ingress and why are you using istio ?
