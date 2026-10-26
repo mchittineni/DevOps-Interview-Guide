@@ -1,6 +1,7 @@
 ---
 company: "Aspire"
 role: "DevOps Engineer"
+experience: "3.4 years"
 tags:
   - interview
   - company/aspire
@@ -12,12 +13,7 @@ tags:
   - topic/security
 ---
 
-# Aspire
-
-- Comapny - Aspire
-- Position -
-
-**EXP--3.4 yr**
+# Aspire — DevOps Engineer
 
 - what is the difference between replica sets and daemon sets?
 - what is the difference between pv and pvc in kuberenetes?
