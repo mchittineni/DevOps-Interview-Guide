@@ -13,9 +13,7 @@ tags:
   - topic/databases
 ---
 
-# Capgemini
-
-**exp----**
+# Capgemini — DevOps Engineer (Interview 3)
 
 - What is the difference between NAT Gateway and IGW?
 - If your pod is in Pending state, then what are your troubleshoot steps?
