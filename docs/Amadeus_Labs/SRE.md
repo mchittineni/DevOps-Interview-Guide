@@ -1,6 +1,7 @@
 ---
 company: "Amadeus Labs"
 role: "SRE"
+experience: "5 years"
 tags:
   - interview
   - company/amadeus-labs
@@ -11,9 +12,7 @@ tags:
   - topic/security
 ---
 
-# Amadeus Labs
-
-**Exp-5yr SRE**
+# Amadeus Labs — SRE
 
 - How to fix pod-level autoscaling not happening, what will be your approach .
 - suppose we have application configured with hpa where it was running fine but suddenly it is not running what will be your approach?
@@ -24,6 +23,9 @@ tags:
 - what type of autmation you have done in k8
 - Tell what type of aumatation you have done that saved time in your project .
 - 11 . Can pod be scheduled if have below security constent .
-- securityContext:
-- runAsNonRoot: true
-- runAsUser: 0
+
+  ```yaml
+  securityContext:
+    runAsNonRoot: true
+    runAsUser: 0
+  ```
