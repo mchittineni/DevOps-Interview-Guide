@@ -18,11 +18,11 @@ tags:
   - topic/scripting
 ---
 
-# Others
+# Undisclosed company — DevOps Engineer (Interview 12)
 
-- Total  - 4 Technical Round, 2F2F and 2 Virtual Round.
+Total  - 4 Technical Round, 2F2F and 2 Virtual Round.
 
-**Round 1: Technical Discussion (Client, Virtual)**
+## Round 1: Technical Discussion (Client, Virtual)
 
 1.  Tell me about yourself ?
 2.  What was your roles and responsibilities in your project ?
@@ -44,7 +44,7 @@ tags:
 18. Some other questions related to BareMetal Server, Storage(HP, DELL) related.
 19. How would you optimize AWS resource costs? Can you explain the methods you would use ?
 
-**Round 2: Technical Manager Round (Internal, F2F)**
+## Round 2: Technical Manager Round (Internal, F2F)
 
 1. Create Terraform S3 resources, and ensure that the resource is deleted automatically after 7 days ?
 2. What is a state file and how do you store it ?
@@ -59,7 +59,7 @@ tags:
 11. What are the services in Kubernetes have ?
 12. What would you recommend: NodePort Service or LoadBalancer Service in Kubernetes and why?
 
-**Round 3: Technical Round (Client, F2F)**
+## Round 3: Technical Round (Client, F2F)
 
 1.  Have you worked on Salt ?
 2.  How you used Ansible in your project and what task you have done ?
@@ -77,7 +77,7 @@ tags:
 14.  What is IAM and how it works ?
 15. How did you migrate an application from an on-premise server to AWS?,  Can you explain the process and the method you followed ?
 
-**Round 4: Client Reporting Manager (Client, Virtual)**
+## Round 4: Client Reporting Manager (Client, Virtual)
 
 1. How do you check the cpu details ?
 2.  how do you check the network details and traffic flows on a system and which command you will use ?

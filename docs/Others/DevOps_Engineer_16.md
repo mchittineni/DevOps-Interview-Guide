@@ -16,7 +16,7 @@ tags:
   - topic/networking
 ---
 
-# Others
+# Undisclosed company — DevOps Engineer (Interview 16)
 
 - Difference between build artificats and pipeline artifacts and which one is better
 - Elaborate the pipeline steps to move a file from azure blob to gcp cloud storage(automated way)

@@ -12,9 +12,9 @@ tags:
   - topic/sre
 ---
 
-# Others
+# Undisclosed company — SRE
 
-- SRE role -:
+SRE role
 
 - Commands used for Kubernetes,Docker and Ansible..
 - Explain Kubernetes Structure, Config Map and Schedular..

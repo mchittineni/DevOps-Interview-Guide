@@ -1,6 +1,7 @@
 ---
 company: "Unknown"
 role: "Cloud Administrator senior"
+experience: "6 years"
 tags:
   - interview
   - role/cloud-administrator-senior
@@ -11,11 +12,9 @@ tags:
   - topic/security
 ---
 
-# Others
+# Undisclosed company — Cloud Administrator senior
 
-**YOE-->6 yr**
-
-- Senior Cloud Administrator
+Senior Cloud Administrator
 
 - If you are implementing HPA for statefulsets if new pod comes the pvc would be empty? How would it be able to serve the request?
 - When would prefer on-prem Kubernetes cluster over EKS and vice-versa

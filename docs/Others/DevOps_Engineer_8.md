@@ -14,10 +14,9 @@ tags:
   - topic/security
 ---
 
-# Others
+# Undisclosed company — DevOps Engineer (Interview 8)
 
-- From one of the linkedin post >
-- interview experience happened yesterday (08-02-2025).
+From one of the linkedin post > interview experience happened yesterday (08-02-2025).
 
 - Write a Terraform code to create multiple S3 buckets
 - How you managed statefile

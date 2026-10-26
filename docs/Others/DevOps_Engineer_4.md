@@ -12,7 +12,7 @@ tags:
   - topic/security
 ---
 
-# Others
+# Undisclosed company — DevOps Engineer (Interview 4)
 
 - how you ensure the best possible security for high availability architectures for 3 tier applications.
 - Diff b/w SGs and NACLs.
@@ -39,8 +39,10 @@ tags:
 - When I deploy the pods, it should be deployed on large and medium. Nodes, except small. How can I configure that?
 - I am getting the following error, how can I debug that and what does the error mean?
 
-- Pods fail to schedule
-- 0/5 nodes are available: insufficient memory.
+  ```text
+  Pods fail to schedule
+  0/5 nodes are available: insufficient memory.
+  ```
 
 - What is the difference between scaling and autoscaling in Kubernetes?
 - If I don't specify TargetPort in the service object, what is it going to do?
