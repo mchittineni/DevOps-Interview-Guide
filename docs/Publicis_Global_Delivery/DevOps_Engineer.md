@@ -13,9 +13,7 @@ tags:
   - topic/databases
 ---
 
-# Publicis Global Delivery
-
-**Exp--->**
+# Publicis Global Delivery — DevOps Engineer
 
 - Kubernetes cluster upgrade from one version to another version? What is the approach?
 - What is PDP in Kubernetes?
