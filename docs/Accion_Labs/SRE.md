@@ -1,6 +1,7 @@
 ---
 company: "Accion Labs"
 role: "SRE"
+experience: "17 years"
 tags:
   - interview
   - company/accion-labs
@@ -15,9 +16,9 @@ tags:
   - topic/scripting
 ---
 
-# Accion Labs
+# Accion Labs — SRE
 
-**Exp---17yrs SRE**
+Candidate profile: SRE.
 
 1)  How do you ensure high availability in Kubernetes?
 2) What are SLO, SLI, and SLA, and why are they important?
@@ -30,8 +31,8 @@ tags:
 9) How do you detect the root cause when an application goes down in the cloud?
 10) How do you respond when:
 
-- a) the master node goes down?
-- b) a worker/slave node goes down?
+    - a) the master node goes down?
+    - b) a worker/slave node goes down?
 
 11) How do you configure a VPC for high availability?
 12) Have you worked on scripting? if so which tool ? explain what you have implemented?
