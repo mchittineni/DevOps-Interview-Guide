@@ -1,6 +1,7 @@
 ---
 company: "ZopSmart"
 role: "DevOps Engineer"
+experience: "2 years"
 tags:
   - interview
   - company/zopsmart
@@ -16,9 +17,9 @@ tags:
   - topic/git
 ---
 
-# ZopSmart
+# ZopSmart — DevOps Engineer
 
-**EXP-- 2yrs in devop**
+2 years in DevOps.
 
 1. explain cicd pipeline,
 2. write declarative pipeline in jenkins server
