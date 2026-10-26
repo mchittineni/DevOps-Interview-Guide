@@ -11,7 +11,7 @@ questions candidates were asked, organised so you can look up a specific company
 
 <div class="grid cards" markdown>
 
-- :material-file-document-multiple: **151 write-ups**
+- :material-file-document-multiple: **153 write-ups**
 - :material-office-building: **85 named companies**, plus `Others/` for unnamed submissions
 - :material-account-tie: **16 distinct roles**
 - :material-tag-multiple: **17 topics** — see the [tag index](tags.md)
@@ -33,23 +33,23 @@ of what gets asked than any single list.
 
 Every page is tagged by the topics it actually covers:
 
-- **kubernetes** (125)
-- **terraform** (94)
-- **aws** (94)
-- **ci-cd** (92)
-- **docker** (67)
-- **security** (60)
-- **networking** (56)
+- **kubernetes** (127)
+- **terraform** (96)
+- **aws** (95)
+- **ci-cd** (94)
+- **docker** (68)
+- **security** (62)
+- **networking** (57)
 - **jenkins** (41)
-- **monitoring** (38)
-- **scripting** (35)
+- **monitoring** (40)
+- **scripting** (36)
 - **linux** (34)
 - **ansible** (30)
+- **azure** (29)
 - **git** (28)
-- **azure** (27)
 - **databases** (25)
 - **sre** (16)
-- **gcp** (5)
+- **gcp** (6)
 
 ## Contributing
 
