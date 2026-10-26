@@ -2,6 +2,7 @@
 company: "Sonata Software"
 role: "DevOps Engineer"
 interview: 1
+experience: "5 years"
 tags:
   - interview
   - company/sonata-software
@@ -15,15 +16,13 @@ tags:
   - topic/databases
 ---
 
-# Sonata Software
+# Sonata Software — DevOps Engineer (Interview 1)
 
-**Exp---- 5yr DevOps Engineer**
+Candidate profile: DevOps Engineer.
 
 1. what is the difference between application gateway and front door
 2. how do you protect your endpoints in AKS
-
-- what is the networking you are using in AKS
-
+3. what is the networking you are using in AKS
 4. how do you do cost optimization in cloud
 5. how do you implement to block an particular domain in application gateway
 6. how will write terraform module
