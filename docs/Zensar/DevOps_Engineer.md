@@ -1,6 +1,7 @@
 ---
 company: "Zensar"
 role: "DevOps Engineer"
+experience: "6+ years"
 tags:
   - interview
   - company/zensar
@@ -12,9 +13,7 @@ tags:
   - topic/monitoring
 ---
 
-# Zensar
-
-**Exp-:6+ years**
+# Zensar — DevOps Engineer
 
 - What is service connection/connection string
 - How to set alerts in azure monitor (explain steps and configuration that u do)
