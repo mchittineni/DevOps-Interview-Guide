@@ -16,12 +16,12 @@ tags:
   - topic/databases
 ---
 
-# Alphadyne
+# Alphadyne — DevOps Engineer (Interview 2)
 
-**YOE-->**
+## Alphadyne assessment
 
-- Alphadyne assessment ->>
-- multiple choice -
+### Multiple choice
+
 - tool should a company use to automatedeploy configuration managing vm and container
 - module used to install nginx web server when automating using ansible in new server
 - ansible module u useto ensure specific package is installed on a new websrrver while configuring the server
@@ -30,7 +30,9 @@ tags:
 - Best pick command to monitor disk write and reads
 - i have pub key and i want a dev to provide access to a server. where do u store pub key
 - User password on modern linux location
-- Coding Task (Terraform on Azure):
+
+### Coding Task (Terraform on Azure)
+
 - Define an Azure Virtual Network (VNet) with a given IP range
 - Create multiple subnets for different layers (bastion, application, database)
 - Configure Network Interfaces (NICs) and attach them to the correct subnets

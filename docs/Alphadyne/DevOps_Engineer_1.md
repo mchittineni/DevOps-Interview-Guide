@@ -2,6 +2,7 @@
 company: "Alphadyne"
 role: "DevOps Engineer"
 interview: 1
+experience: "5 years"
 tags:
   - interview
   - company/alphadyne
@@ -14,9 +15,7 @@ tags:
   - topic/security
 ---
 
-# Alphadyne
-
-**YOE---> 5 Years**
+# Alphadyne — DevOps Engineer (Interview 1)
 
 - Interviewer introduced himself and explained the role, team setup, and expectations and asked me to itroduce
 - Application is hosted on a public EC2 instance.How to migrate it to a private subnet following AWS best practices (security, networking, HA).
