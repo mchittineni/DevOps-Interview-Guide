@@ -1,6 +1,7 @@
 ---
 company: "Qentelli Solutions"
 role: "DevOps Engineer"
+experience: "5 years"
 tags:
   - interview
   - company/qentelli-solutions
@@ -13,9 +14,7 @@ tags:
   - topic/scripting
 ---
 
-# Qentelli Solutions
-
-**Exp-----> 5yrs**
+# Qentelli Solutions — DevOps Engineer
 
 1. create s3 bucket with terraform
 
