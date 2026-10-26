@@ -2,6 +2,7 @@
 company: "Persistent Systems"
 role: "DevOps Engineer"
 interview: 1
+experience: "9 years"
 tags:
   - interview
   - company/persistent-systems
@@ -12,11 +13,11 @@ tags:
   - topic/networking
 ---
 
-# Persistent Systems
+# Persistent Systems — DevOps Engineer (Interview 1)
 
-**Exp---9YOE DevOps - 5YOE**
+9 years total, 5 years in DevOps.
 
-**K8s ---**
+## K8s
 
 - Explain your current project and your activities in it.
 - K8s Architecture.
@@ -24,13 +25,13 @@ tags:
 - Pod Affinity and Node Affinity.
 - HPA & VPA.
 
-**GitHub Actions ---**
+## GitHub Actions
 
 - What is GitHub Actions Matrix strategy.
 - How caching works in Github Actions.
 - what is Stale branch.
 
-**AWS ---**
+## AWS
 
 - ACM
 - CloudTrail
