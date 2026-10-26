@@ -17,9 +17,7 @@ tags:
   - topic/scripting
 ---
 
-# Nextturn
-
-**YOE---**
+# Nextturn — DevOps Engineer
 
 - Python – Write a script to check disk usage and send an alert if it exceeds a threshold.
 - Explain Continuous Integration, Continuous Delivery, and Continuous Deployment.
