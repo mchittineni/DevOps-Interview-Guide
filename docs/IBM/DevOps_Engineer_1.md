@@ -2,6 +2,7 @@
 company: "IBM"
 role: "DevOps Engineer"
 interview: 1
+experience: "7 years"
 tags:
   - interview
   - company/ibm
@@ -14,9 +15,9 @@ tags:
   - topic/networking
 ---
 
-# IBM
+# IBM — DevOps Engineer (Interview 1)
 
-**Exp-7years (Devops Enginner)**
+Candidate profile: DevOps Engineer.
 
 - Encrypting the EBS volume
 - A Jenkins pipeline is randomly failing at the deployment stage to EKS. Logs show timeouts during kubectl apply.
