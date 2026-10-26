@@ -2,6 +2,7 @@
 company: "LTIMindtree"
 role: "DevOps Engineer"
 interview: 3
+experience: "5 years"
 tags:
   - interview
   - company/ltimindtree
@@ -13,9 +14,7 @@ tags:
   - topic/networking
 ---
 
-# LTIMindtree
-
-**Exp---5 year**
+# LTIMindtree — DevOps Engineer (Interview 3)
 
 1. write terraform script for creating app service in azure or write terraform script to create lambda in aws
 2. create 3 different images and store it in ecr or acr, deploy to eks or aks - write kubernetes yml files

@@ -2,6 +2,7 @@
 company: "LTIMindtree"
 role: "DevOps Engineer"
 interview: 2
+experience: "5 years"
 tags:
   - interview
   - company/ltimindtree
@@ -13,9 +14,7 @@ tags:
   - topic/git
 ---
 
-# LTIMindtree
-
-**Exp---5yrs**
+# LTIMindtree — DevOps Engineer (Interview 2)
 
 1) Day to day activities in current role
 2) Git rebase
