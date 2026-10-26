@@ -1,6 +1,7 @@
 ---
 company: "OPT IT"
 role: "DevOps Engineer"
+experience: "2+ years"
 tags:
   - interview
   - company/opt-it
@@ -12,9 +13,7 @@ tags:
   - topic/monitoring
 ---
 
-# OPT IT
-
-**Exp:2+yrs**
+# OPT IT — DevOps Engineer
 
 1) If dbs are in private subnets how do you deploy in kubernetes
 2) WHAT ARE THE BEST PRACTICES THAT YOU FOLLOW TO CREATE RESOURCES LIKE EC2,RDS,MANGODB
