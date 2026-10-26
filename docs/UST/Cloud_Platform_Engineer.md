@@ -1,6 +1,7 @@
 ---
 company: "UST"
 role: "Cloud Platform Engineer"
+experience: "3–5 years"
 tags:
   - interview
   - company/ust
@@ -11,9 +12,7 @@ tags:
   - topic/scripting
 ---
 
-# UST
-
-**EXP-3-5 yrs**
+# UST — Cloud Platform Engineer
 
 - If something is created on the cloud platform and it is not present in Terraform, how will you achieve it?
 - Terraform apply is creating all the resources again. What can be the possible problem?
