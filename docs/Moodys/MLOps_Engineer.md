@@ -1,6 +1,7 @@
 ---
 company: "Moodys"
 role: "MLOps Engineer"
+experience: "3–4 years"
 tags:
   - interview
   - company/moodys
@@ -11,9 +12,7 @@ tags:
   - topic/ci-cd
 ---
 
-# Moodys
-
-**YOE---->3-4 yrs**
+# Moodys — MLOps Engineer
 
 - Can you briefly introduce yourself and explain your background relevant to DevOps/MLOps?
 - How do you set up infrastructure for deploying ML models using Terraform?
