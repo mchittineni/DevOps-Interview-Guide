@@ -1,6 +1,7 @@
 ---
 company: "Qburst"
 role: "DevOps Engineer"
+experience: "3–5 years"
 tags:
   - interview
   - company/qburst
@@ -12,9 +13,7 @@ tags:
   - topic/gcp
 ---
 
-# Qburst
-
-**EXP-3-5 yrs**
+# Qburst — DevOps Engineer
 
 - Different types of services?
 - what is nodeport what are the cases we can use it?
