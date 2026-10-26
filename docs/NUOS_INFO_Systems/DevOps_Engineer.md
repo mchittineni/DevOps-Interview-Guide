@@ -1,6 +1,7 @@
 ---
 company: "NUOS INFO Systems"
 role: "DevOps Engineer"
+experience: "4 years"
 tags:
   - interview
   - company/nuos-info-systems
@@ -16,11 +17,9 @@ tags:
   - topic/security
 ---
 
-# NUOS INFO Systems
+# NUOS INFO Systems — DevOps Engineer
 
-**Exp--4yrs**
-
-- Tech stack— mainly around Terraform, Azure, DevOps, Docker, and Git
+Tech stack— mainly around Terraform, Azure, DevOps, Docker, and Git
 
 - How do you scale a Terraform pipeline that takes 25+ mins?
 - What happens to the Terraform state file if someone deletes resources from Azure?
