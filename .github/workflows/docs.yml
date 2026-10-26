@@ -12,6 +12,7 @@ on:
     paths: &docs-paths
       - 'docs/**'
       - 'mkdocs.yml'
+      - 'hooks/**'
       - 'requirements-docs.txt'
       - '.github/workflows/docs.yml'
   # Build-only on PRs, so `mkdocs build --strict` catches broken links before merge.

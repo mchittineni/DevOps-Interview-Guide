@@ -42,7 +42,9 @@ interview, just say so and skip the rest).
 
 ### Frontmatter
 
-- [ ] File starts with YAML frontmatter containing `company`, `role`, and `tags`
+- [ ] File starts with YAML frontmatter containing `company`, `role`, and `tags` (plus `experience` if known, e.g. `"5 years"`)
+- [ ] Title is `# <Company> — <Role>`, with `(Interview N)` appended when `interview: N` is set
+- [ ] Rounds and topics are `##` / `###` headings, not bold text
 - [ ] `company` matches the folder name, or is `"Unknown"` for entries under `Others/`
 - [ ] `topic/` tags come from the fixed 17-topic vocabulary in the README — no invented topics
 - [ ] Tags reflect what the interview actually covered, not every tool you know
