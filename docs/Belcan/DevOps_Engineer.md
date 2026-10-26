@@ -1,6 +1,7 @@
 ---
 company: "Belcan"
 role: "DevOps Engineer"
+experience: "9 years"
 tags:
   - interview
   - company/belcan
@@ -12,9 +13,7 @@ tags:
   - topic/git
 ---
 
-# Belcan
-
-**YOE-->9 yr**
+# Belcan — DevOps Engineer
 
 - Write your jenkins pipeline
 - What is the purpose of agent, post-conditions and environment blocks in pipeline
