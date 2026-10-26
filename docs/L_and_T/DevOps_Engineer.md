@@ -1,6 +1,7 @@
 ---
-company: "L and T"
+company: "L&T"
 role: "DevOps Engineer"
+experience: "9 years"
 tags:
   - interview
   - company/l-and-t
@@ -12,9 +13,9 @@ tags:
   - topic/security
 ---
 
-# L&T
+# L&T — DevOps Engineer
 
-**EXP-- 9years(4yrs in devops)**
+9 years total, 4 years in DevOps.
 
 - What is cherry-pick
 - what is git checkout
