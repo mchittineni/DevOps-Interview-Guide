@@ -1,6 +1,7 @@
 ---
 company: "Koerber Pharma"
 role: "DevOps Engineer"
+experience: "9 years"
 tags:
   - interview
   - company/koerber-pharma
@@ -15,9 +16,9 @@ tags:
   - topic/security
 ---
 
-# Koerber Pharma
+# Koerber Pharma — DevOps Engineer
 
-**Exp --9 yrs Relevant (5 years)**
+9 years total, 5 years relevant.
 
 - How to handle cost optimization in aws…how can we plan for cost optimization.
 - If someone deleted a resource in terraform how can you identify it and recover it. how to detect some one deleted in tf how to rectifty
