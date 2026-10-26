@@ -2,6 +2,7 @@
 company: "Deloitte"
 role: "DevOps Engineer"
 interview: 2
+experience: "4 years"
 tags:
   - interview
   - company/deloitte
@@ -15,11 +16,12 @@ tags:
   - topic/security
 ---
 
-# Deloitte
+# Deloitte — DevOps Engineer (Interview 2)
 
-**Exp-----> 4yrs(Linkedin)**
+Experience note: Linkedin.
 
-- 𝗥𝗼𝘂𝗻𝗱 𝟭: 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗰𝗿𝗲𝗲𝗻𝗶𝗻𝗴
+## Round 1: Technical Screening
+
 - Explain the CI/CD workflow you follow and the kind of pipeline you use. How do you define and invoke pipelines in Jenkins?
 - What are shared libraries in Jenkins, and how are they written and defined?
 - What kind of applications do you deploy using Jenkins pipelines, and what deployment tools do you use?
@@ -32,7 +34,9 @@ tags:
 - What are the stages in a Docker image build? Why do we use ENTRYPOINT and CMD instructions?
 - How do you manage and connect services like DBs, EC2, EKS, or ECS? Include the command to connect to ECS.
 - Which container registry do you use for storing Docker images?
-- 𝗥𝗼𝘂𝗻𝗱 𝟮: 𝗜𝗻-𝗱𝗲𝗽𝘁𝗵 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗰𝗿𝗲𝗲𝗻𝗶𝗻𝗴
+
+## Round 2: In-depth Technical Screening
+
 - What branching strategy do you follow, and how do you handle merges to avoid breaking the release branch? If a bug appears in production, what’s your approach to resolving it?
 - Describe your typical deployment flow and CI/CD workflow. What stages do you define in your Jenkins pipeline, and how do you ensure full quality checks during deployment?
 - How do you use Jenkins shared libraries? Explain their typical structure and how they are integrated into your Jenkinsfiles.

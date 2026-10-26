@@ -2,6 +2,7 @@
 company: "Deloitte"
 role: "DevOps Engineer"
 interview: 4
+experience: "4 years"
 tags:
   - interview
   - company/deloitte
@@ -12,9 +13,7 @@ tags:
   - topic/ci-cd
 ---
 
-# Deloitte
-
-**YOE-4 yrs**
+# Deloitte — DevOps Engineer (Interview 4)
 
 - Web application is not accessible but ec2 is running fine.what are the major reasons
 - What measures you will take to reduce the infra cost by 20%
