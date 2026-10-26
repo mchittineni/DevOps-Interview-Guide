@@ -1,6 +1,7 @@
 ---
 company: "Netcracker"
 role: "DevOps Engineer"
+experience: "7 years"
 tags:
   - interview
   - company/netcracker
@@ -11,9 +12,9 @@ tags:
   - topic/networking
 ---
 
-# Netcracker
+# Netcracker — DevOps Engineer
 
-**Exp- 7 Years - DevOps role**
+Candidate profile: DevOps role.
 
 - Diff between mount and directories in Linux
 - How will you restart http service from VM
