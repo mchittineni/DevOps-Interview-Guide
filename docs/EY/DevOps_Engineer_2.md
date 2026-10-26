@@ -14,9 +14,7 @@ tags:
   - topic/security
 ---
 
-# E&Y
-
-**experienc---->**
+# EY — DevOps Engineer (Interview 2)
 
 - Explain the Kubernetes architecture and how it works.
 - What is a Deployment in Kubernetes?
