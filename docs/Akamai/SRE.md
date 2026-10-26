@@ -1,6 +1,7 @@
 ---
 company: "Akamai"
 role: "SRE"
+experience: "8 years"
 tags:
   - interview
   - company/akamai
@@ -10,9 +11,9 @@ tags:
   - topic/networking
 ---
 
-# Akamai
+# Akamai — SRE
 
-**Exp---8yrs  SRE**
+Candidate profile: SRE.
 
 - IPv4 vs IPv6
 - IPv4 address starts from
