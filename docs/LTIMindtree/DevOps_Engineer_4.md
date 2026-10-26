@@ -2,6 +2,7 @@
 company: "LTIMindtree"
 role: "DevOps Engineer"
 interview: 4
+experience: "3 years"
 tags:
   - interview
   - company/ltimindtree
@@ -15,9 +16,7 @@ tags:
   - topic/scripting
 ---
 
-# LTIMindtree
-
-**Exp--->3 yrs**
+# LTIMindtree — DevOps Engineer (Interview 4)
 
 - How do you deploy python application on aws using jenkins pipeline
 - How do your day starts and what activities you perform
