@@ -1,6 +1,7 @@
 ---
 company: "Rapidsoft"
 role: "DevOps Engineer"
+experience: "10.5 years"
 tags:
   - interview
   - company/rapidsoft
@@ -14,9 +15,9 @@ tags:
   - topic/databases
 ---
 
-# Rapidsoft
+# Rapidsoft — DevOps Engineer
 
-**Exp-: 10.5 years work ex. Devops. 4 -5 years of devops experience**
+10.5 years total work experience, 4–5 years of DevOps experience.
 
 - What things have you worked and your experience in brief?
 - Terraform has errors while provisioning infrastructure. How to do investigate those? Basically how do you validate the terraform file
