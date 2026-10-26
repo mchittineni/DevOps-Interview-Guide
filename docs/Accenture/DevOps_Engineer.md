@@ -1,6 +1,7 @@
 ---
 company: "Accenture"
 role: "DevOps Engineer"
+experience: "6 years"
 tags:
   - interview
   - company/accenture
@@ -12,9 +13,7 @@ tags:
   - topic/databases
 ---
 
-# Accenture
-
-**EXP- 6yrs**
+# Accenture — DevOps Engineer
 
 - You have created an IAM user in AWS and configured role-based access in EKS. How do you bind the IAM user to the EKS role?
 - Assume you have 10 AWS accounts. How will you securely log in to them, considering access keys are not used for security reasons?
