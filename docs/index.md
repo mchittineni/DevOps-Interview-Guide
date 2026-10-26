@@ -1,59 +1,52 @@
 ---
 hide:
   - navigation
+  - toc
 ---
+
+<div class="hero" markdown>
 
 # DevOps & SRE Interview Questions
 
-Real interview questions collected from people who actually sat through DevOps, SRE, and Cloud
-engineering interviews. No paraphrasing, no "top 50 questions" filler — these are the exact
-questions candidates were asked, organised so you can look up a specific company or browse broadly.
+Real questions from real DevOps, SRE, and Cloud engineering interviews, recorded the way
+candidates were asked them. No paraphrasing, no "top 50 questions" filler.
 
-<div class="grid cards" markdown>
-
-- :material-file-document-multiple: **153 write-ups**
-- :material-office-building: **85 named companies**, plus `Others/` for unnamed submissions
-- :material-account-tie: **16 distinct roles**
-- :material-tag-multiple: **17 topics** — see the [tag index](tags.md)
+[:material-office-building-outline: Browse companies](companies/index.md){ .md-button .md-button--primary }
+[:material-tag-multiple-outline: Browse by topic](tags.md){ .md-button }
 
 </div>
 
+<!-- stats -->
+
 ## How to use this
 
-**Prepping for one company?** Use the search box, or find the company in the left-hand navigation.
-Some companies appear more than once — different candidates, different rounds, sometimes years
-apart. Each is kept as a separate page rather than merged, because the questions and interviewer
-style usually differ.
+<div class="grid cards" markdown>
 
-**Prepping broadly?** Browse by [topic tag](tags.md) instead. Skimming a handful of companies of
-different sizes — product companies, service companies, fintech — tells you more about the range
-of what gets asked than any single list.
+-   :material-target:{ .lg } **Prepping for one company?**
 
-## What gets asked
+    ---
 
-Every page is tagged by the topics it actually covers:
+    Open it from the [company list](companies/index.md), or press ++slash++ to search. Companies
+    that appear more than once have one page per interview, since different candidates and rounds
+    get asked different things.
 
-- **kubernetes** (127)
-- **terraform** (96)
-- **aws** (95)
-- **ci-cd** (94)
-- **docker** (68)
-- **security** (62)
-- **networking** (57)
-- **jenkins** (41)
-- **monitoring** (40)
-- **scripting** (36)
-- **linux** (34)
-- **ansible** (30)
-- **azure** (29)
-- **git** (28)
-- **databases** (25)
-- **sre** (16)
-- **gcp** (6)
+-   :material-compass-outline:{ .lg } **Prepping broadly?**
+
+    ---
+
+    Browse by [topic](tags.md). Skimming a few companies of different sizes (product, services,
+    fintech) shows you the range of what gets asked better than any single list does.
+
+</div>
+
+## Topics
+
+Every page is tagged with the topics it actually covers. Pick one to see each interview that touched it.
+
+<!-- topics -->
 
 ## Contributing
 
-Interview experiences are welcome — see the
-[contributing guide](https://github.com/mchittineni/DevOps-Interview-Guide#contributing) on GitHub.
-Add your write-up under the matching company folder in `docs/`, include the YAML frontmatter, and
-open a pull request. Formatting is checked automatically.
+Sat an interview recently? Add it as a new page under the matching company folder in `docs/` and open
+a pull request. The [contributing guide](https://github.com/mchittineni/DevOps-Interview-Guide#contributing)
+covers the frontmatter and file naming. Formatting is checked automatically.
