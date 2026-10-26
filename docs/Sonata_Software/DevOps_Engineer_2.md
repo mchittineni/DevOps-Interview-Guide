@@ -2,6 +2,7 @@
 company: "Sonata Software"
 role: "DevOps Engineer"
 interview: 2
+experience: "6+ years"
 tags:
   - interview
   - company/sonata-software
@@ -12,11 +13,10 @@ tags:
   - topic/scripting
 ---
 
-# Sonata Software
+# Sonata Software — DevOps Engineer (Interview 2)
 
-**YOE: 6 +**
+## AWS Questions
 
-- AWS Questions
 - What are the AWS services that you have worked on?
 - Can you tell me what is cold start in Lambda?
 - Have you worked on API Gateway?
@@ -37,18 +37,20 @@ tags:
 - How does Aurora handle automatic backups?
 - Have you worked on AppConfig?
 
-- Terraform Questions
+## Terraform Questions
+
 - Have you worked on Terraform?
 - Say I created an S3 bucket using Terraform and want to modify the bucket name. Is it possible? How would you do this?
 - Can you tell me what is Data Block in Terraform?
 - How do you handle multiple environments in Terraform?
 - What are modules in Terraform?
 
-- GitLab / CI-CD Questions
+## GitLab / CI-CD Questions
+
 - Have you worked on GitLab?
 - Can you tell me what are rules in GitLab?
 
-- Scripting / Programming Questions
+## Scripting / Programming Questions
 
 - Which scripting language have you used?
 - Can you tell me the difference between single ampersand (&) and double ampersand (&&) in shell scripting?
