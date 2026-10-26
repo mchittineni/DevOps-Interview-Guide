@@ -1,6 +1,7 @@
 ---
 company: "CMT"
 role: "SRE"
+experience: "4–5 years"
 tags:
   - interview
   - company/cmt
@@ -14,9 +15,9 @@ tags:
   - topic/networking
 ---
 
-# CMT
+# CMT — SRE
 
-**Exp-  4-5 yrs(SRE)**
+Candidate profile: SRE.
 
 - which are all the services you used in AWS
 - design an high availability, fault tolerance system in aws
