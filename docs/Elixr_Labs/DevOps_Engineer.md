@@ -1,6 +1,7 @@
 ---
 company: "Elixr Labs"
 role: "DevOps Engineer"
+experience: "6 years"
 tags:
   - interview
   - company/elixr-labs
@@ -10,9 +11,7 @@ tags:
   - topic/monitoring
 ---
 
-# Elixr Labs
-
-**Exp-----> 6yr**
+# Elixr Labs — DevOps Engineer
 
 1. what is land job activity in migration
 2. what type of basic azure services u will consider
@@ -28,10 +27,7 @@ tags:
 13. lets assume consider banking sector only i dont have that much budget but since ur telling that for low budget go for site-to-site-vpn but on otherside ur saying that express-route is more secure > So how cn u justy that, because banking costumer has a limitation for him
 14. IN which senario we will go for site-to-site vpn  and Expressroute
 15. any storage related components have u worked on?
-16. lets say i have a condition i need to access the data which is stored in storage account but that is huge data which is comming from enduser perspective lets say some cppotency that is recording 24/7 and data will be stored but at the same time if anyone comes and to retrieve the data obviously they will get it from storage account,now i need to implement some cost optimisation techniques on storage account to reduce cose because data to be incresed daytoday ?whta afre the possible ways
-
-- with respective storageaccount
-
+16. lets say i have a condition i need to access the data which is stored in storage account but that is huge data which is comming from enduser perspective lets say some cppotency that is recording 24/7 and data will be stored but at the same time if anyone comes and to retrieve the data obviously they will get it from storage account,now i need to implement some cost optimisation techniques on storage account to reduce cose because data to be incresed daytoday ?whta afre the possible ways with respective storageaccount
 16. suppose u have created a storage accouunt with hot-tier is it possible to change to cool-tier
 17. manually we can change from hottier to cool tier ,but when i have huge data it will take time right .
 18. Did u face  any challenges while ur taking backup? any issues
