@@ -14,9 +14,7 @@ tags:
   - topic/scripting
 ---
 
-# CTS (Cognizant)
-
-**Exp----->**
+# CTS — DevOps Engineer (Interview 3)
 
 1. Day to day tasks
 2. How did you reduce the sizes of docker images?

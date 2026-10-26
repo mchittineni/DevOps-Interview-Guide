@@ -2,6 +2,7 @@
 company: "CTS"
 role: "DevOps Engineer"
 interview: 2
+experience: "3–4 years"
 tags:
   - interview
   - company/cts
@@ -13,9 +14,7 @@ tags:
   - topic/networking
 ---
 
-# CTS (Cognizant)
-
-**Exp->3-4yr**
+# CTS — DevOps Engineer (Interview 2)
 
 - How do you manage terrform state file
 - How would you design an architecture for a 2 tier application
