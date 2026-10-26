@@ -2,6 +2,7 @@
 company: "HCL"
 role: "DevOps Engineer"
 interview: 3
+experience: "5 years"
 tags:
   - interview
   - company/hcl
@@ -13,9 +14,7 @@ tags:
   - topic/networking
 ---
 
-# HCL
-
-**exp ----- 5 yrs**
+# HCL — DevOps Engineer (Interview 3)
 
 - Landing zone, guard trail, scp, control tar. —— interviewer ask for this vocabulary ❌ (general)
 - Account 1 to Account 2 – send AMI but its KMS encrypted, help me do that ❌ (aws)

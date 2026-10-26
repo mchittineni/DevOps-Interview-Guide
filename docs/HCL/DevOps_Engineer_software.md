@@ -1,6 +1,7 @@
 ---
 company: "HCL"
 role: "DevOps Engineer software"
+experience: "5 years"
 tags:
   - interview
   - company/hcl
@@ -12,9 +13,7 @@ tags:
   - topic/security
 ---
 
-# HCL
-
-**Exp---5 years**
+# HCL — DevOps Engineer software
 
 - How do you display the last 10 lines of a large log file without opening it fully?
 - In Kubernetes, how would you configure your deployment to double CPU allocation once usage crosses 70%?

@@ -2,6 +2,7 @@
 company: "HCL"
 role: "DevOps Engineer"
 interview: 1
+experience: "4–5 years"
 tags:
   - interview
   - company/hcl
@@ -15,9 +16,7 @@ tags:
   - topic/security
 ---
 
-# HCL
-
-**exp--> 4-5**
+# HCL — DevOps Engineer (Interview 1)
 
 - What is git branching strategy used in your organisation
 - How deployment is done in different environment using git repo
