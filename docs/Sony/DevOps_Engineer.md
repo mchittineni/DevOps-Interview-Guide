@@ -14,7 +14,7 @@ tags:
   - topic/sre
 ---
 
-# Sony
+# Sony — DevOps Engineer
 
 1. How would you respond to a production outage during peak hours?
 2. So how do you guarantee zero downtime deployments in Kubernetes.
@@ -33,8 +33,7 @@ tags:
 - What are the vulnerability reports in your sonarqube.
 - If I want to start an ec2 instance once the cpu is utilised 80% what terraform code will you write and it also should copy the image from S3.
 - How will you secure your jenkins pipelines.
-- How would you design a Kubernetes cluster that must survive a full AZ failure without data loss, while running stateful workloads at scale?
-- (Storage, networking, controllers, quorum, recovery)
+- How would you design a Kubernetes cluster that must survive a full AZ failure without data loss, while running stateful workloads at scale? (Storage, networking, controllers, quorum, recovery)
 - Explain the complete request flow when using Gateway API with multiple GatewayClasses across regions. How do you prevent split-brain routing?
 - How do you debug intermittent pod restarts when liveness probes pass, readiness passes, but the pod is still killed by the node?
 - What happens internally when etcd latency spikes above 500ms? How does it impact the scheduler, controllers, and API server?
