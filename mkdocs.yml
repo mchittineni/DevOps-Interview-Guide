@@ -2,10 +2,10 @@ site_name: DevOps & SRE Interview Questions
 site_description: >-
   Real interview questions from DevOps, SRE, and Cloud engineering interviews,
   recorded as they were asked and organised by company.
-site_url: https://mchittineni.github.io/DevOps-Interview-Guide/
+site_url: https://litu54.github.io/DevOps-Interview-Guide/
 
-repo_url: https://github.com/mchittineni/DevOps-Interview-Guide
-repo_name: mchittineni/DevOps-Interview-Guide
+repo_url: https://github.com/litu54/DevOps-Interview-Guide
+repo_name: litu54/DevOps-Interview-Guide
 edit_uri: edit/main/docs/
 copyright: Questions contributed by the community. Recorded as asked.
 
@@ -113,4 +113,4 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/mchittineni/DevOps-Interview-Guide
+      link: https://github.com/litu54/DevOps-Interview-Guide

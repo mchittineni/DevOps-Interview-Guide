@@ -2,7 +2,7 @@
 
 Real interview questions collected from people who actually sat through DevOps, SRE, and Cloud engineering interviews in 2025 and 2026. No paraphrasing, no "top 50 questions" filler — these are the exact questions candidates were asked, organized so you can look up a specific company or just browse broadly to prep.
 
-> **Browse it as a website:** <https://mchittineni.github.io/DevOps-Interview-Guide/>
+> **Browse it as a website:** <https://litu54.github.io/DevOps-Interview-Guide/>
 > — full-text search, a company directory, browse-by-topic, and dark mode. Built with MkDocs
 > Material and published automatically from `main`.
 
