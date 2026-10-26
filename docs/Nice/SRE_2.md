@@ -2,6 +2,7 @@
 company: "Nice"
 role: "SRE"
 interview: 2
+experience: "3 years"
 tags:
   - interview
   - company/nice
@@ -14,12 +15,9 @@ tags:
   - topic/security
 ---
 
-# Nice
+# Nice — SRE (Interview 2)
 
-- Comapny - Nice
-- Position - Cloud Site Reliability Engineer
-
-**EXP--3yr**
+Position - Cloud Site Reliability Engineer.
 
 - [ ] Can you brief through your profile?
 - [ ] Is it client-based work or are you just in the middle of deployment?
