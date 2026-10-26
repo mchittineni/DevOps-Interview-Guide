@@ -14,9 +14,7 @@ tags:
   - topic/scripting
 ---
 
-# TCS
-
-**EXP--->**
+# TCS — SRE (Interview 1)
 
 - What is an Ansible Playbook?
 - What is an Ansible Role?

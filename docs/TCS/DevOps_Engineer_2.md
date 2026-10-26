@@ -2,6 +2,7 @@
 company: "TCS"
 role: "DevOps Engineer"
 interview: 2
+experience: "4–5 years"
 tags:
   - interview
   - company/tcs
@@ -14,9 +15,9 @@ tags:
   - topic/scripting
 ---
 
-# TCS
+# TCS — DevOps Engineer (Interview 2)
 
-**Exp-- 4-5 yrs (DEVOPS)**
+Candidate profile: DevOps.
 
 1. what is role in ansible
 2. how do you encrypt in ansible

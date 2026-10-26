@@ -12,11 +12,10 @@ tags:
   - topic/databases
 ---
 
-# TCS
+# TCS — SRE (Interview 2)
 
-**EXP--->**
+Gemini company interview questions
 
-- Gemini company interview questions
 - What is Terraform drift?
 - Difference between COPY and ADD commands in a Dockerfile.
 - If a Docker image becomes very large with many layers, what steps would you take to reduce its size?
