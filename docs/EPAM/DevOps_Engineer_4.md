@@ -17,7 +17,7 @@ tags:
   - topic/scripting
 ---
 
-# EPAM
+# EPAM — DevOps Engineer (Interview 4)
 
 - what are the availablility sets ?
 - you have 5 domains which all are interrleated ?
@@ -41,8 +41,10 @@ tags:
 - Write a shell script to extract all log entries containing the keyword 'ERROR' for the current date from a log file.
 - Write a shell script to print all numbers that are divisible by either 3 or 5, but not divisible by 15, within a specified range.
 - Explain RBAC in kubernetes.
-- 24.how to write variables in pipeline ?
-- 25.how to write terraform in pipeline ?
+
+24. how to write variables in pipeline ?
+25. how to write terraform in pipeline ?
+
 - difference between classic and yaml pipeline ?
 - whats the difference between service end
 - explain about docker networking ?

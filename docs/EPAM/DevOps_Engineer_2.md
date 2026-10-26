@@ -2,6 +2,7 @@
 company: "EPAM"
 role: "DevOps Engineer"
 interview: 2
+experience: "7 years"
 tags:
   - interview
   - company/epam
@@ -12,9 +13,9 @@ tags:
   - topic/security
 ---
 
-# EPAM
+# EPAM — DevOps Engineer (Interview 2)
 
-**Exp-----> 7 YOE - AWS DevOps Engineer**
+Candidate profile: AWS DevOps Engineer.
 
 - Diff b/w ALB and NLB
 - Purpose of using VPC Endpoint with use case
@@ -23,13 +24,9 @@ tags:
 - Diff type of instance profiles
 - AMI vs Snapshots
 - Development team changed the AMI configuration to ASG launch template, how will you make sure that the new version is deployed properly.
-
-170. 90.00.9/0 - Is Public IP or Private IP
-
+- 170.90.00.9/0 - Is Public IP or Private IP
 - How to find out if the provided IP is public or Private
-
-192. 90.90.88/12 - Is private or Host
-
+- 192.90.90.88/12 - Is private or Host
 - TGW in AWS
 - Post connecting diff VPCs through TGW, I want to black the traffic of A to B and B to C, how to perform it
 - EC2 in a private subnet should receive inbound traffic, how to enable it ? → NOT NAT Gateway

@@ -2,6 +2,7 @@
 company: "EPAM"
 role: "DevOps Engineer"
 interview: 3
+experience: "6 years"
 tags:
   - interview
   - company/epam
@@ -16,9 +17,7 @@ tags:
   - topic/security
 ---
 
-# EPAM
-
-**Exp--6 year**
+# EPAM — DevOps Engineer (Interview 3)
 
 1. How would you design a scalable, highly available CI/CD system for microservices across multiple teams?
 2. How would you manage cross-region deployments using Terraform in a multi-cloud setup?
