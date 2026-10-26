@@ -1,6 +1,7 @@
 ---
 company: "Hexaware"
 role: "DevOps Engineer"
+experience: "4–5 years"
 tags:
   - interview
   - company/hexaware
@@ -11,9 +12,7 @@ tags:
   - topic/ci-cd
 ---
 
-# Hexaware
-
-**Exp--4-5yrs**
+# Hexaware — DevOps Engineer
 
 1. write yaml pipeline for ci/cd (overall structure)
 2. what is the command for auto approval in terraform
