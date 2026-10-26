@@ -8,7 +8,7 @@ Real interview questions collected from people who actually sat through DevOps, 
 
 ## What's here
 
-- **151 interview write-ups**
+- **153 interview write-ups**
 - **85 companies**, plus an `Others/` folder for interviews where the company wasn't named
 - Topics span Kubernetes, Docker, Terraform, AWS/Azure/GCP, CI/CD (Jenkins, GitHub Actions, Azure DevOps), Ansible, Linux, scripting, and SRE fundamentals (SLI/SLO/SLA, observability, incident response)
 
@@ -72,7 +72,7 @@ Search the repo for a company name, or open its folder directly. If you're prepp
 
 ```bash
 python3 -m venv .venv && source .venv/bin/activate
-pip install -r requirements.txt
+pip install -r requirements-docs.txt
 mkdocs serve
 ```
 

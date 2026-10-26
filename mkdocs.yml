@@ -49,6 +49,11 @@ plugins:
   - search
   # Listing page is auto-detected from the <!-- material/tags --> marker in tags.md
   - tags
+  # "Last updated" footer per page, from git history (CI checks out with fetch-depth: 0).
+  - git-revision-date-localized:
+      type: date
+      enable_creation_date: false
+      fallback_to_build_date: true
 
 markdown_extensions:
   - admonition
