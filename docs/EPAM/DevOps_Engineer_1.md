@@ -2,6 +2,7 @@
 company: "EPAM"
 role: "DevOps Engineer"
 interview: 1
+experience: "9 years"
 tags:
   - interview
   - company/epam
@@ -12,9 +13,9 @@ tags:
   - topic/linux
 ---
 
-# EPAM
+# EPAM — DevOps Engineer (Interview 1)
 
-**Exp--> 9 years devops -4yrs**
+9 years total, 4 years in DevOps.
 
 1. How to Create and Use Custom Resources in Kubernetes
 
@@ -24,7 +25,7 @@ tags:
 4. what is role based control access
 5. what is cluster auto scaler and horizontal auto scaling
 
-- Terraform:
+## Terraform
 
 1. what is provider?
 2. how to manage state in terraform
