@@ -2,6 +2,7 @@
 company: "IBM"
 role: "DevOps Engineer"
 interview: 3
+experience: "5+ years"
 tags:
   - interview
   - company/ibm
@@ -15,9 +16,7 @@ tags:
   - topic/linux
 ---
 
-# IBM
-
-**YOE: 5 +**
+# IBM — DevOps Engineer (Interview 3)
 
 - Write a script to delete files older than 10 days.
 - What is hard and soft link

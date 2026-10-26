@@ -1,6 +1,7 @@
 ---
 company: "IBM"
 role: "Cloud Engineer"
+experience: "3.3 years"
 tags:
   - interview
   - company/ibm
@@ -13,9 +14,7 @@ tags:
   - topic/scripting
 ---
 
-# IBM
-
-**Exp-----> 3.3 Year exp**
+# IBM — Cloud Engineer
 
 1. Tell me about yourself.
 2. What are your day-to-day activities?
