@@ -48,5 +48,5 @@ Every page is tagged with the topics it actually covers. Pick one to see each in
 ## Contributing
 
 Sat an interview recently? Add it as a new page under the matching company folder in `docs/` and open
-a pull request. The [contributing guide](https://github.com/mchittineni/DevOps-Interview-Guide#contributing)
+a pull request. The [contributing guide](https://github.com/litu54/DevOps-Interview-Guide#contributing)
 covers the frontmatter and file naming. Formatting is checked automatically.
