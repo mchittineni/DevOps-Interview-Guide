@@ -2,6 +2,7 @@
 company: "Wipro"
 role: "DevOps Engineer"
 interview: 3
+experience: "4 years"
 tags:
   - interview
   - company/wipro
@@ -11,11 +12,7 @@ tags:
   - topic/security
 ---
 
-# Wipro
-
-**Exp--->4 years**
-
-**Role ---> Devops**
+# Wipro — DevOps Engineer (Interview 3)
 
 - If you have a monolith application and need to convert it to microservices, what prerequisites would you ask from the development and tech teams before starting the work?
 - When designing a microservices-oriented infrastructure, what technologies and components (like load balancer, service mesh, Kubernetes) would you bring in, and how would you design the estate?

@@ -2,6 +2,7 @@
 company: "Wipro"
 role: "DevOps Engineer"
 interview: 5
+experience: "9 years"
 tags:
   - interview
   - company/wipro
@@ -15,9 +16,7 @@ tags:
   - topic/git
 ---
 
-# Wipro
-
-**EXP-9 yrs**
+# Wipro — DevOps Engineer (Interview 5)
 
 - Can you brief your self and your project and responsibilities
 - Application on AWS EC2 behind the loadbalancer suddenly unavailable, how do you troubleshoot
